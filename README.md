@@ -1,68 +1,58 @@
-<!-- ================================================================================================= -->
-<!--                                        WELCOME BANNER                                          -->
-<!-- ================================================================================================= -->
-# 👋 Hi, I'm **Mattias** – A Passionate Developer & Creator!
+# 👋 Hi, I'm **Hamdi Ben Jarrar** – Developer, Creator & Innovator
 
-![Profile Banner](https://raw.githubusercontent.com/MattiasDev/yourrepo/main/banner.gif)
-<!-- (Replace the URL with your own animated banner or profile image URL) -->
+![Profile Banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/your-banner.gif)
+<!-- Replace the above URL with your own animated banner or profile image URL -->
 
-<!-- ================================================================================================= -->
-<!--                                    ABOUT ME & MISSION                                        -->
-<!-- ================================================================================================= -->
+---
+
 ## 🌟 About Me
 
-Hello! I'm **Mattias**, a forward-thinking developer who loves pushing the boundaries of technology and design.  
-I strive to create solutions that blend cutting-edge technology with engaging user experiences. Whether I'm writing code or conceptualizing new projects, my goal is to make an impact and drive innovation.
+Hello! I’m **Hamdi Ben Jarrar**, a passionate developer driven by innovation and creativity. I thrive on creating digital solutions that blend state-of-the-art technology with beautiful, intuitive design. Whether I’m building scalable web applications, exploring AI integrations, or crafting engaging user experiences, I’m on a mission to push boundaries and inspire through technology.
 
-- 🔭 **Currently exploring**: Advanced Web Technologies & AI integration.
-- 🌱 **Learning**: Cloud Computing, Microservices, and DevOps.
-- 💬 **Ask me about**: Front-end frameworks, modern UI/UX, and scalable back-end systems.
-- ⚡ **Fun fact**: I'm a coffee aficionado ☕ and a passionate traveler.
+- 🔭 **Currently exploring**: Next-generation web frameworks and AI-powered automation.
+- 🌱 **Learning**: Advanced Cloud Computing, Microservices, and DevOps.
+- 💬 **Ask me about**: Modern UI/UX trends, full-stack development, and disruptive tech innovations.
+- ⚡ **Fun fact**: I’m a tech enthusiast who loves merging art with code—and yes, I’m known for my creative coffee-fueled coding sessions!
 
-<!-- ================================================================================================= -->
-<!--                                    MY JOURNEY & SKILLS                                         -->
-<!-- ================================================================================================= -->
+---
+
 ## 🚀 My Journey & Skillset
 
-I began coding as a hobby and quickly turned my passion into a profession. Over the years, I've honed a diverse skillset that includes:
+My journey began with a simple spark of curiosity and has evolved into a relentless pursuit of excellence. Here’s a glimpse into my world:
 
-1. **Front-end Development**
-   - HTML5, CSS3, and modern JavaScript (ES6+)
-   - Cutting-edge frameworks like **React** & **Vue.js**
-   - Responsive and adaptive design techniques
+### Front-end Development
+- **Languages & Tools**: HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks**: React, Vue.js
+- **Expertise**: Responsive design, dynamic interfaces, animation (CSS & SVG)
 
-2. **Back-end Development**
-   - Node.js, Express, and RESTful API design
-   - Database management with SQL & NoSQL solutions
-   - Serverless architectures and microservices
+### Back-end Development
+- **Languages & Tools**: Node.js, Express.js
+- **Database Technologies**: MongoDB, PostgreSQL
+- **Expertise**: RESTful APIs, serverless architectures, microservices
 
-3. **DevOps & Cloud**
-   - Continuous Integration/Continuous Deployment (CI/CD)
-   - Docker, Kubernetes, and cloud services (AWS/GCP/Azure)
+### DevOps & Cloud
+- **Tools & Platforms**: Docker, Kubernetes, AWS, GCP, Azure
+- **Expertise**: CI/CD pipelines, containerization, scalable cloud solutions
 
-4. **Design & Creativity**
-   - UI/UX principles and interactive web design
-   - Animation using CSS and SVG
-   - Prototyping with tools like Figma and Sketch
+### Design & Creativity
+- **Focus**: UI/UX principles, interactive design, prototyping with Figma/Sketch
+- **Passion**: Blending art with technology to create engaging digital experiences
 
-<!-- ================================================================================================= -->
-<!--                                  DYNAMIC GITHUB STATS                                        -->
-<!-- ================================================================================================= -->
+---
+
 ## 📊 My GitHub Stats
 
-> Check out my dynamic GitHub statistics:
+I like to keep things dynamic! Check out my live GitHub stats below:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MattiasDev&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiasDev&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamdibenjarrar&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdibenjarrar&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ================================================================================================= -->
-<!--                               INTERACTIVE & ANIMATED ELEMENTS                                  -->
-<!-- ================================================================================================= -->
-## 🎨 Interactive Elements
+---
 
-Here's an animated SVG to add a dynamic vibe:
+## 🎨 Interactive & Animated Elements
 
-```html
+To add some flair, here’s an animated SVG that brings a dynamic touch to this page:
+
 <svg width="100%" height="100" viewBox="0 0 1000 100">
   <path fill="#61dafb">
     <animate attributeName="d"
@@ -75,71 +65,84 @@ Here's an animated SVG to add a dynamic vibe:
       " />
   </path>
 </svg>
-<!-- ================================================================================================= --> <!-- MY PROJECTS & WORK --> <!-- ================================================================================================= -->
-💻 Projects & Contributions
-I believe in building projects that solve real-world problems. Here are some of my highlights:
 
-Project Alpha
-A web application built with React and Node.js that automates tasks and enhances productivity.
-Technologies used: React, Node.js, MongoDB
-View on GitHub
+---
 
-BetaUI
-A sleek UI library designed for rapid prototyping and modern interfaces.
-Technologies used: HTML, CSS, JavaScript
-View on GitHub
+## 💻 Projects & Contributions
 
-GammaAnalytics
-An analytics dashboard integrating data visualization and real-time statistics.
-Technologies used: D3.js, Express, PostgreSQL
-View on GitHub
+I build projects that tackle real-world challenges. Here are some of my favorites:
 
-<!-- ================================================================================================= --> <!-- SOCIAL MEDIA BADGES --> <!-- ================================================================================================= -->
-🔗 Connect with Me
-Let's connect! Find me on:
+- **Project Alpha**  
+  A cutting-edge web application that leverages React and Node.js to deliver seamless user experiences and efficient task automation.  
+  _Tech Stack_: React, Node.js, MongoDB  
+  [View on GitHub](https://github.com/hamdibenjarrar/project-alpha)
 
+- **BetaUI**  
+  A modern UI library designed for rapid prototyping and sleek design.  
+  _Tech Stack_: HTML, CSS, JavaScript  
+  [View on GitHub](https://github.com/hamdibenjarrar/betaui)
 
+- **GammaAnalytics**  
+  An analytics dashboard featuring real-time data visualization and interactive insights.  
+  _Tech Stack_: D3.js, Express, PostgreSQL  
+  [View on GitHub](https://github.com/hamdibenjarrar/gammaanalytics)
 
+---
 
+## 🔗 Connect with Me
 
-<!-- ================================================================================================= --> <!-- FEATURED BLOG POSTS --> <!-- ================================================================================================= -->
-📝 Featured Blog Posts
-I love sharing insights on modern web development. Here are some featured posts:
+Let’s connect and collaborate! Find me on:
 
-Innovating with React and Beyond
-A deep dive into modern front-end trends and how React is evolving.
-Read More
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamdibenjarrar/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hamdibenjarrar)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hamdibenjarrar)  
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hamdibenjarrar.dev)
 
-Scaling Applications with Microservices
-How microservices architecture is transforming scalability.
-Read More
+---
 
-The Future of UI/UX Design
-Exploring trends and best practices for engaging digital experiences.
-Read More
+## 📝 Featured Blog Posts
 
-<!-- ================================================================================================= --> <!-- TIMELINE & ACHIEVEMENTS --> <!-- ================================================================================================= -->
-📆 Timeline & Achievements
-2024:
+I love sharing my journey and insights through writing. Here are some of my featured posts:
 
-Launched Project Alpha with over 10K active users.
-Contributed to multiple open-source projects.
-Began mentoring emerging developers through online workshops.
-2023:
+1. **Innovating with Modern Web Frameworks**  
+   _Dive deep into the latest trends and best practices in front-end development._  
+   [Read More](https://hamdibenjarrar.dev/blog/modern-web-frameworks)
 
-Released BetaUI, now embraced by developers worldwide.
-Attended international tech conferences and hackathons.
-Published insightful articles on Dev.to and Medium.
-2022:
+2. **Scaling with Microservices**  
+   _Exploring the power of microservices in building scalable and resilient applications._  
+   [Read More](https://hamdibenjarrar.dev/blog/scaling-with-microservices)
 
-Graduated with a degree in Computer Science.
-Interned at a leading tech firm, gaining valuable real-world experience.
-Developed multiple side projects that paved the way for future ventures.
-<!-- ================================================================================================= --> <!-- CODE SNIPPETS & DEMOS --> <!-- ================================================================================================= -->
-💡 Code Snippets & Demos
-Here are a few snippets that capture my coding style and problem-solving approach:
+3. **The Art of UI/UX Design**  
+   _Discover how thoughtful design can transform user experiences._  
+   [Read More](https://hamdibenjarrar.dev/blog/ui-ux-design)
 
-// Dynamic Fibonacci Sequence Generator
+---
+
+## 📆 Timeline & Achievements
+
+> **2024:**  
+> - Launched *Project Alpha* reaching over 10K active users.  
+> - Contributed to various impactful open-source projects.  
+> - Initiated mentorship programs for emerging developers.
+>
+> **2023:**  
+> - Released *BetaUI*, widely adopted by designers and developers.  
+> - Participated in international tech conferences and hackathons.  
+> - Published multiple insightful articles on modern tech trends.
+>
+> **2022:**  
+> - Completed a specialized program in Advanced Computer Science.  
+> - Interned at a leading tech firm, gaining invaluable industry experience.  
+> - Developed several innovative side projects that laid the groundwork for future ventures.
+
+---
+
+## 💡 Code Snippets & Demos
+
+Below are a few code snippets that showcase my approach to problem-solving and creativity:
+
+```javascript
+// Dynamic Fibonacci Sequence Generator in JavaScript
 function fibonacci(n) {
   const fib = [0, 1];
   for (let i = 2; i < n; i++) {
@@ -147,46 +150,14 @@ function fibonacci(n) {
   }
   return fib;
 }
-
-console.log(fibonacci(10)); // [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
-python
-Copier
-Modifier
-# Simple REST API with Flask
+console.log(fibonacci(10)); // Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+# Simple REST API using Flask in Python
 from flask import Flask, jsonify
-
 app = Flask(__name__)
 
 @app.route('/api/data', methods=['GET'])
 def get_data():
-    return jsonify({'message': "Hello from Mattias' API!"})
+    return jsonify({'message': "Hello from Hamdi Ben Jarrar's API!"})
 
 if __name__ == '__main__':
     app.run(debug=True)
-<!-- ================================================================================================= --> <!-- EXTRAS & EASTER EGGS --> <!-- ================================================================================================= -->
-🎉 Extras & Easter Eggs
-Random Quote Generator:
-Refresh the page for a new motivational quote each time!
-
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-Animated Progress Bars:
-A fun way to visualize my skills:
-
-
-<!-- ================================================================================================= --> <!-- CUSTOMIZATION & FUTURE UPDATES --> <!-- ================================================================================================= -->
-🛠️ Customization & Future Updates
-I'm always evolving—expect more interactive demos, tutorials, and live coding sessions soon. Stay tuned!
-
-<!-- ================================================================================================= --> <!-- CONTACT & CLOSING --> <!-- ================================================================================================= -->
-📫 Get in Touch
-Whether you have a project idea, need advice, or simply want to connect, feel free to reach out!
-
-Email: mattias.dev@example.com
-LinkedIn: Mattias on LinkedIn
-Twitter: @mattias_dev
-"The best way to predict the future is to invent it." – Alan Kay
-
-Thanks for stopping by my profile. Let's create something amazing together!
-
-This single-page README is designed to be comprehensive and modern, featuring dynamic elements, interactive badges, and detailed sections that showcase your journey, skills, and projects. Enjoy rocking your GitHub profile!
