@@ -1,25 +1,24 @@
 # 👋 Hi — I'm **Hamdi Ben Jarrar**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=FF5733,33FF57,3357FF&center=true&vCenter=true&width=780&lines=Responsible+%E2%80%A2+Innovative+%E2%80%A2+Digital+Creator;Building+Interactive+Experiences+with+Wallah-We-Can;UI%2FUX+%7C+Front-end+%7C+Impactful+Solutions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=FF5733,33FF57,3357FF,FFC300&center=true&vCenter=true&width=780&lines=Responsible+%E2%80%A2+Innovative+%E2%80%A2+Digital+Creator;Building+Interactive+Experiences+with+Wallah-We-Can;UI%2FUX+%7C+Front-end+%7C+Impactful+Solutions" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <!-- Banner placeholder, optional -->
-  <img src="https://media.giphy.com/media/3o7TKPqZ7n3k6rUNeI/giphy.gif" alt="Wallah-We-Can banner" style="max-width:100%;height:auto;border-radius:8px;" />
+  <img src="https://media.giphy.com/media/3o7TKPqZ7n3k6rUNeI/giphy.gif" alt="Wallah-We-Can banner" style="max-width:100%;height:auto;border-radius:10px;" />
 </p>
 
 ---
 
-## ✨ Quick pitch
-I design and deliver **digital solutions** that combine **innovation, interactivity, and impact**.  
-I lead projects end-to-end: from **UI/UX design** to **frontend development**, **animations**, and **cloud deployment**.  
+## ✨ Quick Pitch
+I design **interactive digital solutions** that combine **innovation, technology, and visual impact**.  
+I lead projects end-to-end: **UI/UX design**, **frontend dev**, **animations**, and **cloud deployment**.
 
 ---
 
-## 🎯 Core strengths (animated)
+## 🎯 Core Strengths (typing effect)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=FF5733,33FF57,3357FF&width=760&lines=UI/UX+Design+%E2%80%A2+Interactive+Animations+%E2%80%A2+Web+Development;Innovation+%E2%80%A2+Digital+Solutions+%E2%80%A2+Cloud+Deployment;Power+BI+%E2%80%A2+Data+Dashboards+%E2%80%A2+Problem+Solving" alt="Core skills animated" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=FF5733,33FF57,3357FF,FFC300&width=760&lines=UI/UX+Design+%E2%80%A2+Interactive+Animations;Frontend+Development+%28React%2C+Next.js%2C+TypeScript%29;Cloud+Deployment+%28Azure%2C+Docker%29;Data+Dashboards+%28Power+BI%29" alt="Core skills animated" />
 </p>
 
 ---
@@ -35,18 +34,20 @@ I lead projects end-to-end: from **UI/UX design** to **frontend development**, *
 ---
 
 ## 🧭 My Role
-- **Responsible, Innovative & Digital Creator** leading Wallah-We-Can’s **digital transformation**.  
-- **Tasks & Responsibilities**:
-  - Frontend development (React, Next.js, TypeScript)
-  - UI/UX design with interactive animations (Framer Motion, GSAP)
-  - Power BI dashboards & real-time data visualization
-  - Cloud deployment and environment management (Azure, Docker)
+### **Responsible, Innovative & Digital Creator**
+- Leading Wallah-We-Can’s **digital transformation**
+- Tasks & Responsibilities:
+  - Frontend dev: **React, Next.js, TypeScript**
+  - UI/UX: **interactive animations, modern design**
+  - Cloud & deployment: **Azure, Docker**
+  - Power BI: **real-time dashboards, data insights**
   - Localization & production-ready builds
-  - Innovative digital solutions for social impact
+  - Designing **innovative digital solutions** for social impact
 
 ---
 
 ## 🛠 Tech & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" />
@@ -70,13 +71,15 @@ I lead projects end-to-end: from **UI/UX design** to **frontend development**, *
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/hamdibenjarrar">LinkedIn</a> •
-  <a href="mailto:hamdibenjarrar@gmail.com">Email</a> •
-  <a href="https://github.com/hamdibenjarrar">GitHub</a>
+  <a href="https://linkedin.com/in/hamdibenjarrar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+  <a href="mailto:hamdibenjarrar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+  <a href="https://github.com/hamdibenjarrar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" /></a>
 </p>
+
+---
 
 <p align="center">
   <span style="color:white;">❤️</span> Made with love by Hamdi — **UI & Interactive README Specialist**
