@@ -1,50 +1,48 @@
 # 👋 Hi — I'm **Hamdi Ben Jarrar**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=61DAFB&center=true&vCenter=true&width=780&lines=Developer+%7C+UI%2FUX+%7C+Front-end+%7C+Innovator;Building+Interactive+Experiences+%7C+%26+Wallah-We-Can" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=FF5733,33FF57,3357FF&center=true&vCenter=true&width=780&lines=Responsible+%E2%80%A2+Innovative+%E2%80%A2+Digital+Creator;Building+Interactive+Experiences+with+Wallah-We-Can;UI%2FUX+%7C+Front-end+%7C+Impactful+Solutions" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <!-- Replace with your own banner gif: assets/banner.gif -->
-  <img src="./assets/banner.gif" alt="banner" style="max-width:100%;height:auto;border-radius:8px;" />
+  <!-- Banner placeholder, optional -->
+  <img src="https://media.giphy.com/media/3o7TKPqZ7n3k6rUNeI/giphy.gif" alt="Wallah-We-Can banner" style="max-width:100%;height:auto;border-radius:8px;" />
 </p>
 
 ---
 
 ## ✨ Quick pitch
-I design and build **interactive UI-first products** — pixel-perfect frontends (React, Next.js, TypeScript), high-quality animations (Framer Motion, GSAP), data dashboards (Power BI), and cloud/deployment (Azure, Docker). I blend design & engineering to create experiences that scale.
+I design and deliver **digital solutions** that combine **innovation, interactivity, and impact**.  
+I lead projects end-to-end: from **UI/UX design** to **frontend development**, **animations**, and **cloud deployment**.  
 
 ---
 
 ## 🎯 Core strengths (animated)
 <p align="center">
-  <!-- referencing the animated SVG saved at ./assets/skills.svg -->
-  <img src="./assets/skills.svg" alt="Core skills animated" style="max-width:820px;width:100%;height:auto;border-radius:10px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=FF5733,33FF57,3357FF&width=760&lines=UI/UX+Design+%E2%80%A2+Interactive+Animations+%E2%80%A2+Web+Development;Innovation+%E2%80%A2+Digital+Solutions+%E2%80%A2+Cloud+Deployment;Power+BI+%E2%80%A2+Data+Dashboards+%E2%80%A2+Problem+Solving" alt="Core skills animated" />
 </p>
 
 ---
 
-## 🚀 Highlight Projects (hover / GIFs)
+## 🚀 Highlight Project
+
 <p align="center">
-  <a href="https://github.com/hamdibenjarrar/axiome" target="_blank">
-    <img src="./assets/axiome.gif" alt="Axiome preview" width="280" style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.25);" />
-  </a>
-  &nbsp;
   <a href="https://github.com/hamdibenjarrar/wallahwecan" target="_blank">
-    <img src="./assets/wallahwecan.gif" alt="Wallah-We-Can preview" width="280" style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.25);" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/hamdibenjarrar/gammaanalytics" target="_blank">
-    <img src="./assets/gamma.gif" alt="GammaAnalytics preview" width="280" style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.25);" />
+    <img src="https://media.giphy.com/media/l0HlBo7eyXzSZkJri/giphy.gif" alt="Wallah-We-Can preview" width="400" style="border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.25);" />
   </a>
 </p>
 
 ---
 
-## 🧭 What I do
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=111827&pause=1000&width=760&lines=Design+High-fidelity+UIs+%E2%80%A2+Implement+Interactive+Animations;Build+Scalable+Frontends+with+TypeScript+%E2%80%A2+Deploy+to+Azure+and+Docker;Build+Data+Dashboards+(Power+BI)+%E2%80%A2+Consult+on+Product+Design" alt="What I do" />
-</p>
+## 🧭 My Role
+- **Responsible, Innovative & Digital Creator** leading Wallah-We-Can’s **digital transformation**.  
+- **Tasks & Responsibilities**:
+  - Frontend development (React, Next.js, TypeScript)
+  - UI/UX design with interactive animations (Framer Motion, GSAP)
+  - Power BI dashboards & real-time data visualization
+  - Cloud deployment and environment management (Azure, Docker)
+  - Localization & production-ready builds
+  - Innovative digital solutions for social impact
 
 ---
 
@@ -63,17 +61,7 @@ I design and build **interactive UI-first products** — pixel-perfect frontends
 
 ---
 
-## 📜 Resume Highlights
-- UI-first full-stack: Next.js + React + TypeScript, strong animation skills (Framer / GSAP).  
-- Founder — **Axiome** (UI-led digital solutions).  
-- Lead frontend & i18n work — **Wallah-We-Can** (localization, build fixes, deployment).  
-- Power BI Certification (Coursera / Microsoft).  
-- Azure Free Tier for testing & staging.  
-- Languages: Arabic, French, English.
-
----
-
-## 📈 GitHub Live
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamdibenjarrar&show_icons=true&theme=radical&hide_border=true" height="140" />
   &nbsp;
@@ -82,15 +70,14 @@ I design and build **interactive UI-first products** — pixel-perfect frontends
 
 ---
 
-## 🔧 Quick install (add the assets)
-1. Create an `assets/` folder in the repository.  
-2. Save `skills.svg` and `wave.svg` (provided below) into `assets/`.  
-3. Replace `./assets/banner.gif`, `./assets/axiome.gif`, `./assets/wallahwecan.gif`, `./assets/gamma.gif` with your GIFs (same folder).  
-4. Commit & push.
+## 🌐 Let’s Connect
 
-```bash
-mkdir assets
-# add files into assets/
-git add README.md assets/*
-git commit -m "Interactive README + SVGs"
-git push
+<p align="center">
+  <a href="https://linkedin.com/in/hamdibenjarrar">LinkedIn</a> •
+  <a href="mailto:hamdibenjarrar@gmail.com">Email</a> •
+  <a href="https://github.com/hamdibenjarrar">GitHub</a>
+</p>
+
+<p align="center">
+  <span style="color:white;">❤️</span> Made with love by Hamdi — **UI & Interactive README Specialist**
+</p>
