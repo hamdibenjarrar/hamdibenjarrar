@@ -1,7 +1,7 @@
 # 👋 Hi — I'm **Hamdi Ben Jarrar**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=61DAFB&center=true&vCenter=true&width=780&lines=Developer+%7C+UI%2FUX+%7C+Front-end+%7C+Innovator;Building+Interactive+Experiences+%7C+Axiome+%26+Wallah-We-Can" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=900&color=61DAFB&center=true&vCenter=true&width=780&lines=Developer+%7C+UI%2FUX+%7C+Front-end+%7C+Innovator;Building+Interactive+Experiences+%7C+%26+Wallah-We-Can" alt="Typing animation" />
 </p>
 
 <p align="center">
