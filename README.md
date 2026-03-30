@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- ░░░░░░░░░░░░░ CINEMATIC HEADER ░░░░░░░░░░░░░ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=HAMDI%20BEN%20JARRAR&fontSize=68&fontColor=ffffff&color=0:0f0c29,40:302b63,100:24243e&desc=Frontend%20Engineer%20%E2%80%A2%20Digital%20Creator%20%E2%80%A2%20Open%20Source%20Advocate&descSize=18&descAlignY=74&animation=fadeIn&stroke=6366f1&strokeWidth=2" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=800&color=06B6D4&center=true&vCenter=true&width=800&lines=const+hamdi+%3D+new+FrontendEngineer()%3B;%F0%9F%8E%A8+Crafting+interfaces+that+feel+like+art;%F0%9F%94%AE+Building+MYNTHISM+%E2%80%94+something+big+is+coming...;%E2%9A%A1+React+%7C+Next.js+%7C+TypeScript+%7C+Three.js+%7C+GSAP;%F0%9F%8C%8D+Arabic+Dev+Community+%E2%80%A2+Open+Source+Advocate;%E2%9C%A8+npmx.dev+%E2%80%94+the+npm+browser+reimagined;%F0%9F%87%B9%F0%9F%87%B3+Crafting+the+digital+future+from+Tunisia" width="800"/>
@@ -21,7 +20,6 @@
 <br/>
 
 <!-- ░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░ -->
-
 <table border="0" cellpadding="10" width="100%">
 <tr>
 <td width="56%" valign="top">
@@ -58,10 +56,10 @@ const hamdi: HamdiProfile = {
     design:   ["Figma", "Power BI", "UI/UX"],
   },
   building: [
-    "🔮 MYNTHISM         — stealth mode 👀",
-    "⚡ npmx.dev         — npm reimagined",
+    "🔮 MYNTHISM — stealth mode 👀",
+    "⚡ npmx.dev — npm reimagined",
     "🌍 awesome-arabic-dev — for the community",
-    "💰 DinarWise        — finance for Tunisia",
+    "💰 DinarWise — finance for Tunisia",
   ],
   openTo: ["freelance 💼", "open-source 🌱", "collab 🤝"],
 };
@@ -70,11 +68,11 @@ const hamdi: HamdiProfile = {
 </td>
 <td width="44%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif" width="290" alt="Data Streams"/>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="290" alt="Late night coding"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="290" alt="GitHub"/>
 
 <br/><br/>
 
@@ -87,17 +85,16 @@ const hamdi: HamdiProfile = {
 <br/>
 
 <!-- ░░░░░░░░░░░░░ CURRENTLY BUILDING ░░░░░░░░░░░░░ -->
-
 <div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=2&animation=twinkling" width="100%"/>
 
 ### 🛠️ &nbsp;Currently Building
 
 | 🚀 Project | 💬 What it does | ⚡ Stack | 📊 Status |
 |:---|:---|:---|:---:|
 | 🔮 **MYNTHISM** | AI-powered automation platform · stealth 👀 | `Next.js · AI · TypeScript` | ![s](https://img.shields.io/badge/STEALTH-8b5cf6?style=flat-square) |
-| [**⚡ npmx.dev**](https://github.com/hamdibenjarrar/npmx.dev) | Fast modern browser for the npm registry | `Nuxt 4 · UnoCSS · Nitro` | ![s](https://img.shields.io/badge/LIVE-22c55e?style=flat-square) |
+| [**⚡ npmx.dev**](https://github.com/npmx-dev/npmx.dev) | Fast modern browser for the npm registry | `Nuxt 4 · UnoCSS · Nitro` | ![s](https://img.shields.io/badge/LIVE-22c55e?style=flat-square) |
 | [**🌍 awesome-arabic-dev**](https://github.com/hamdibenjarrar/awesome-arabic-dev) | Curated resources for Arabic devs | `Open Source · Community` | ![s](https://img.shields.io/badge/GROWING-06b6d4?style=flat-square) |
 | [**💰 DinarWise**](https://github.com/hamdibenjarrar/DinarWise) | Personal finance tracker for Tunisia | `Next.js · MongoDB · Recharts` | ![s](https://img.shields.io/badge/COMPLETE-6366f1?style=flat-square) |
 | [**🎨 artistportfolio**](https://github.com/hamdibenjarrar/artistportfolio) | Cinematic portfolio for a visual artist | `Next.js 15 · Framer Motion` | ![s](https://img.shields.io/badge/DEPLOYED-ff6b35?style=flat-square) |
@@ -107,10 +104,11 @@ const hamdi: HamdiProfile = {
 <br/>
 
 <!-- ░░░░░░░░░░░░░ TECH ARSENAL ░░░░░░░░░░░░░ -->
-
 <div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=2&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Tech+Arsenal+%7C+Crafting+with+precision;%F0%9F%8E%A8+Motion+%7C+3D+%7C+Design+Systems;%F0%9F%94%AE+GSAP+%7C+Framer+Motion+%7C+Three.js+%7C+Nuxt+4" width="700"/>
 
 ### ⚡ &nbsp;Tech Arsenal
 
@@ -141,19 +139,18 @@ const hamdi: HamdiProfile = {
 <br/>
 
 <!-- ░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░ -->
-
 <div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=2&animation=twinkling" width="100%"/>
 
 ### 📊 &nbsp;GitHub Intelligence
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamdibenjarrar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9&ring_color=8b5cf6&count_private=true" width="49%" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hamdibenjarrar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9&ring_color=8b5cf6&count_private=true&cache_seconds=86400" width="49%" alt="Stats"/>
 <img src="https://streak-stats.demolab.com?user=hamdibenjarrar&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=8b949e" width="49%" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdibenjarrar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=10" width="49%" alt="Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdibenjarrar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=10&cache_seconds=86400" width="49%" alt="Top Langs"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamdibenjarrar&bg_color=0d1117&color=06b6d4&line=6366f1&point=8b5cf6&hide_border=true&area=true&custom_title=Hamdi%27s%20Contribution%20Graph" width="49%" alt="Activity"/>
 
 </div>
@@ -161,10 +158,9 @@ const hamdi: HamdiProfile = {
 <br/>
 
 <!-- ░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░ -->
-
 <div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=2&animation=twinkling" width="100%"/>
 
 ### 🏆 &nbsp;Achievement Showcase
 
@@ -183,10 +179,9 @@ const hamdi: HamdiProfile = {
 <br/>
 
 <!-- ░░░░░░░░░░░░░ SNAKE ░░░░░░░░░░░░░ -->
-
 <div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=2&animation=twinkling" width="100%"/>
 
 ### 🐍 &nbsp;Contribution Constellation
 
@@ -201,27 +196,26 @@ const hamdi: HamdiProfile = {
 <br/>
 
 <!-- ░░░░░░░░░░░░░ FEATURED PROJECTS ░░░░░░░░░░░░░ -->
-
 <div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=2&animation=twinkling" width="100%"/>
 
 ### 🚀 &nbsp;Featured Projects
 
-<a href="https://github.com/hamdibenjarrar/npmx.dev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=npmx.dev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" width="48%"/>
+<a href="https://github.com/npmx-dev/npmx.dev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=npmx-dev&repo=npmx.dev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9&cache_seconds=86400" width="48%"/>
 </a>
 <a href="https://github.com/hamdibenjarrar/awesome-arabic-dev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=awesome-arabic-dev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=awesome-arabic-dev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9&cache_seconds=86400" width="48%"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/hamdibenjarrar/DinarWise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=DinarWise&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=DinarWise&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9&cache_seconds=86400" width="48%"/>
 </a>
 <a href="https://github.com/hamdibenjarrar/artistportfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=artistportfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=artistportfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9&cache_seconds=86400" width="48%"/>
 </a>
 
 <br/><br/>
@@ -229,7 +223,9 @@ const hamdi: HamdiProfile = {
 <img src="https://img.shields.io/badge/%F0%9F%94%AE%20MYNTHISM-COMING%20SOON-8b5cf6?style=for-the-badge&labelColor=0d1117"/>
 <br/>
 <sub>AI-powered automation platform &nbsp;·&nbsp; Something big is brewing &nbsp;·&nbsp; Stay tuned 👀</sub>
+
 <br/><br/>
+
 <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="stealth mode"/>
 
 </div>
@@ -237,16 +233,15 @@ const hamdi: HamdiProfile = {
 <br/>
 
 <!-- ░░░░░░░░░░░░░ QUOTE + CONNECT + FOOTER ░░░░░░░░░░░░░ -->
-
 <div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=2&animation=twinkling" width="100%"/>
 
 ### 💬 &nbsp;Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=2&animation=twinkling" width="100%"/>
 
 ### 🌐 &nbsp;Let's Connect & Build Together
 
