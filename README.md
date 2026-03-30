@@ -1,27 +1,32 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Hamdi%20Ben%20Jarrar&fontSize=60&fontColor=ffffff&color=0:6366f1,50:06b6d4,100:8b5cf6&desc=Frontend%20Engineer%20%E2%80%A2%20Motion%20Artisan%20%E2%80%A2%20Digital%20Creator&descAlignY=74&animation=twinkling&stroke=6366f1&strokeWidth=2" width="100%"/>
-</p>
-
 <div align="center">
 
-[![Visitors](https://komarev.com/ghpvc/?username=hamdibenjarrar&style=for-the-badge&color=6366f1&labelColor=0d1117&label=VISITORS)](https://github.com/hamdibenjarrar)
-[![Followers](https://img.shields.io/github/followers/hamdibenjarrar?style=for-the-badge&color=06b6d4&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=06b6d4)](https://github.com/hamdibenjarrar?tab=followers)
-[![Available](https://img.shields.io/badge/Available%20For%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117)](mailto:hamdibenjarrar@gmail.com)
-[![Tunisia](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B3%20Tunisia-Made%20with%20%E2%9D%A4%EF%B8%8F-e70013?style=for-the-badge&labelColor=0d1117)](https://github.com/hamdibenjarrar)
+<!-- ░░░░░░░░░░░░░ CINEMATIC HEADER ░░░░░░░░░░░░░ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=HAMDI%20BEN%20JARRAR&fontSize=68&fontColor=ffffff&color=0:0f0c29,40:302b63,100:24243e&desc=Frontend%20Engineer%20%E2%80%A2%20Digital%20Creator%20%E2%80%A2%20Open%20Source%20Advocate&descSize=18&descAlignY=74&animation=fadeIn&stroke=6366f1&strokeWidth=2" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=800&color=06B6D4&center=true&vCenter=true&width=800&lines=const+hamdi+%3D+new+FrontendEngineer()%3B;%F0%9F%8E%A8+Crafting+interfaces+that+feel+like+art;%F0%9F%94%AE+Building+MYNTHISM+%E2%80%94+something+big+is+coming...;%E2%9A%A1+React+%7C+Next.js+%7C+TypeScript+%7C+Three.js+%7C+GSAP;%F0%9F%8C%8D+Arabic+Dev+Community+%E2%80%A2+Open+Source+Advocate;%E2%9C%A8+npmx.dev+%E2%80%94+the+npm+browser+reimagined;%F0%9F%87%B9%F0%9F%87%B3+Crafting+the+digital+future+from+Tunisia" width="800"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=const+hamdi+%3D+new+FrontendEngineer()%3B;React+%7C+Next.js+%7C+TypeScript+%F0%9F%9A%80;Crafting+Motion+with+GSAP+%2B+Framer+Motion+%F0%9F%8E%A8;Building+Wallah-We-Can+for+Social+Impact+%F0%9F%8C+;Azure+%E2%98%81%EF%B8%8F+%7C+Docker+%F0%9F%90%B3+%7C+DevOps+Engineer;Open+Source+Contributor+%E2%9A%A1;Pixels+%2B+Purpose+%3D+Impact+%F0%9F%92%AB;From+%F0%9F%87%B9%F0%9F%87%B3+Tunisia+to+the+World+%F0%9F%8C+" alt="Typing SVG"/>
+<img src="https://komarev.com/ghpvc/?username=hamdibenjarrar&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/hamdibenjarrar?style=for-the-badge&color=06b6d4&labelColor=0d1117&label=FOLLOWERS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-22c55e?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B3%20TUNISIA-ff6b35?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
----
+<br/>
 
-<table>
+<!-- ░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░ -->
+
+<table border="0" cellpadding="10" width="100%">
 <tr>
-<td valign="top" width="55%">
+<td width="56%" valign="top">
 
-### 🧠 `whoami`
+### 👾 `> whoami`
 
 ```typescript
 interface HamdiProfile {
@@ -29,169 +34,242 @@ interface HamdiProfile {
   role:     string;
   location: string;
   mission:  string;
-  building: string;
   stack: {
     frontend: string[];
     motion:   string[];
+    backend:  string[];
     devops:   string[];
     design:   string[];
   };
-  openTo: string[];
+  building: string[];
+  openTo:   string[];
 }
 
 const hamdi: HamdiProfile = {
   name:     "Hamdi Ben Jarrar",
   role:     "Frontend Engineer & Digital Creator",
-  location: "🇹🇳 Tunisia, North Africa",
+  location: "🇹🇳 Tunis, Tunisia",
   mission:  "Responsible · Innovative · Impact-Driven",
-  building: "Wallah-We-Can — Digital Solutions for Good",
   stack: {
-    frontend: ["React", "Next.js", "TypeScript"],
+    frontend: ["React", "Next.js", "TypeScript", "Nuxt 4"],
     motion:   ["GSAP", "Framer Motion", "Three.js"],
-    devops:   ["Azure", "Docker", "CI/CD"],
+    backend:  ["Node.js", "Express", "MongoDB"],
+    devops:   ["Azure", "Docker", "GitHub Actions"],
     design:   ["Figma", "Power BI", "UI/UX"],
   },
-  openTo: ["freelance", "open-source", "collaboration 🤝"],
+  building: [
+    "🔮 MYNTHISM         — stealth mode 👀",
+    "⚡ npmx.dev         — npm reimagined",
+    "🌍 awesome-arabic-dev — for the community",
+    "💰 DinarWise        — finance for Tunisia",
+  ],
+  openTo: ["freelance 💼", "open-source 🌱", "collab 🤝"],
 };
 ```
 
 </td>
-<td valign="top" width="45%" align="center">
+<td width="44%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="Coding GIF"/>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="290" alt="Late night coding"/>
 
-<br/>
+<br/><br/>
 
-> *"Code is poetry — make it beautiful"*
+> 💬 *"Code is poetry — make it beautiful"*
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 🔭 Currently Building
-
-| 🚀 Project | 📋 Description | 🛠️ Stack | 📊 Status |
-|:-----------|:--------------|:---------|:---------|
-| **[Wallah-We-Can](https://github.com/hamdibenjarrar)** | Interactive digital platform for social impact 🌍 | Next.js · TypeScript · GSAP | 🟢 Active |
-| **[awesome-arabic-dev](https://github.com/hamdibenjarrar/awesome-arabic-dev)** | Curated resources for Arabic-speaking developers 🌐 | Community · Open Source | 🟢 Growing |
-| **Artist Portfolio** | Cinematic WebGL portfolio with immersive animations | Three.js · GSAP · Framer Motion | 🔵 Building |
-
----
-
-### ⚡ Tech Arsenal
+<!-- ░░░░░░░░░░░░░ CURRENTLY BUILDING ░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-**Frontend & Languages**
+---
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass&theme=dark&perline=8"/>
+### 🛠️ &nbsp;Currently Building
 
-<br/><br/>
-
-**Backend, DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,docker,azure,git,github&theme=dark&perline=8"/>
-
-<br/><br/>
-
-**Design & Tools**
-
-<img src="https://skillicons.dev/icons?i=figma,vscode,linux,powershell,vercel,firebase&theme=dark&perline=6"/>
-
-<br/><br/>
-
-**Motion & Analytics Stack**
-
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)](https://greensock.com/gsap/)
-[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+| 🚀 Project | 💬 What it does | ⚡ Stack | 📊 Status |
+|:---|:---|:---|:---:|
+| 🔮 **MYNTHISM** | AI-powered automation platform · stealth 👀 | `Next.js · AI · TypeScript` | ![s](https://img.shields.io/badge/STEALTH-8b5cf6?style=flat-square) |
+| [**⚡ npmx.dev**](https://github.com/hamdibenjarrar/npmx.dev) | Fast modern browser for the npm registry | `Nuxt 4 · UnoCSS · Nitro` | ![s](https://img.shields.io/badge/LIVE-22c55e?style=flat-square) |
+| [**🌍 awesome-arabic-dev**](https://github.com/hamdibenjarrar/awesome-arabic-dev) | Curated resources for Arabic devs | `Open Source · Community` | ![s](https://img.shields.io/badge/GROWING-06b6d4?style=flat-square) |
+| [**💰 DinarWise**](https://github.com/hamdibenjarrar/DinarWise) | Personal finance tracker for Tunisia | `Next.js · MongoDB · Recharts` | ![s](https://img.shields.io/badge/COMPLETE-6366f1?style=flat-square) |
+| [**🎨 artistportfolio**](https://github.com/hamdibenjarrar/artistportfolio) | Cinematic portfolio for a visual artist | `Next.js 15 · Framer Motion` | ![s](https://img.shields.io/badge/DEPLOYED-ff6b35?style=flat-square) |
 
 </div>
-
----
-
-### 📊 GitHub Intelligence
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamdibenjarrar&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=6366f1&icon_color=06b6d4&title_color=6366f1&text_color=a0aec0&count_private=true&include_all_commits=true&hide_border=false"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=hamdibenjarrar&theme=tokyonight&background=0d1117&border=6366f1&ring=6366f1&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=a0aec0"/>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdibenjarrar&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=6366f1&title_color=6366f1&text_color=a0aec0&langs_count=8&hide_border=false"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamdibenjarrar&theme=tokyo-night&bg_color=0d1117&color=6366f1&line=06b6d4&point=8b5cf6&area=true&hide_border=false"/>
-
-</div>
-
----
-
-### 🏆 Achievement Showcase
+<!-- ░░░░░░░░░░░░░ TECH ARSENAL ░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hamdibenjarrar&theme=tokyonight&no-frame=false&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+---
+
+### ⚡ &nbsp;Tech Arsenal
+
+**Frontend & Languages**
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass&theme=dark&perline=8)](https://skillicons.dev)
+
+**Motion & 3D**
+
+[![Skills](https://skillicons.dev/icons?i=threejs&theme=dark)](https://skillicons.dev)
+&nbsp;
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Nuxt%204-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=black"/>
+
+**Backend & Database**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
+
+**DevOps, Tools & Design**
+
+[![Skills](https://skillicons.dev/icons?i=azure,docker,github,git,figma,vscode&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
----
+<br/>
 
-### 🐍 Contribution Constellation
+<!-- ░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░ -->
 
 <div align="center">
+
+---
+
+### 📊 &nbsp;GitHub Intelligence
+
+<img src="https://github-readme-stats.vercel.app/api?username=hamdibenjarrar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9&ring_color=8b5cf6&count_private=true" width="49%" alt="Stats"/>
+<img src="https://streak-stats.demolab.com?user=hamdibenjarrar&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=8b5cf6&sideLabels=c9d1d9&dates=8b949e" width="49%" alt="Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdibenjarrar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=10" width="49%" alt="Top Langs"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamdibenjarrar&bg_color=0d1117&color=06b6d4&line=6366f1&point=8b5cf6&hide_border=true&area=true&custom_title=Hamdi%27s%20Contribution%20Graph" width="49%" alt="Activity"/>
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+---
+
+### 🏆 &nbsp;Achievement Showcase
+
+<img src="https://github-profile-trophy.vercel.app/?username=hamdibenjarrar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/YOLO%20Badge-Unlocked%20%E2%9C%85-f97316?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pull%20Shark-In%20Progress%20%F0%9F%A6%88-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Starstruck-Hunting%20Stars%20%E2%AD%90-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░ SNAKE ░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+---
+
+### 🐍 &nbsp;Contribution Constellation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamdibenjarrar/hamdibenjarrar/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamdibenjarrar/hamdibenjarrar/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hamdibenjarrar/hamdibenjarrar/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/hamdibenjarrar/hamdibenjarrar/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![awesome-arabic-dev](https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=awesome-arabic-dev&theme=tokyonight&bg_color=0d1117&border_color=6366f1&title_color=6366f1&text_color=a0aec0&icon_color=06b6d4)](https://github.com/hamdibenjarrar/awesome-arabic-dev)
-[![artistportfolio](https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=artistportfolio&theme=tokyonight&bg_color=0d1117&border_color=6366f1&title_color=6366f1&text_color=a0aec0&icon_color=06b6d4)](https://github.com/hamdibenjarrar/artistportfolio)
-
-</div>
-
----
-
-### 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-### 🌐 Let's Connect & Build Together
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamdi%20Ben%20Jarrar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/hamdibenjarrar)
-[![Gmail](https://img.shields.io/badge/Gmail-hamdibenjarrar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hamdibenjarrar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-hamdibenjarrar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/hamdibenjarrar)
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=80&color=0:6366f1,50:06b6d4,100:8b5cf6&section=footer&reversal=false" width="100%"/>
-</p>
+<!-- ░░░░░░░░░░░░░ FEATURED PROJECTS ░░░░░░░░░░░░░ -->
 
-<p align="center">
-  <sub>✨ <b>Hamdi Ben Jarrar</b> — Crafting the digital future from 🇹🇳 Tunisia · <i>Responsible • Innovative • Digital Creator</i></sub>
-</p>
+<div align="center">
+
+---
+
+### 🚀 &nbsp;Featured Projects
+
+<a href="https://github.com/hamdibenjarrar/npmx.dev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=npmx.dev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" width="48%"/>
+</a>
+<a href="https://github.com/hamdibenjarrar/awesome-arabic-dev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=awesome-arabic-dev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" width="48%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/hamdibenjarrar/DinarWise">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=DinarWise&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" width="48%"/>
+</a>
+<a href="https://github.com/hamdibenjarrar/artistportfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamdibenjarrar&repo=artistportfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=c9d1d9" width="48%"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%94%AE%20MYNTHISM-COMING%20SOON-8b5cf6?style=for-the-badge&labelColor=0d1117"/>
+<br/>
+<sub>AI-powered automation platform &nbsp;·&nbsp; Something big is brewing &nbsp;·&nbsp; Stay tuned 👀</sub>
+<br/><br/>
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="stealth mode"/>
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░ QUOTE + CONNECT + FOOTER ░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+---
+
+### 💬 &nbsp;Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+
+---
+
+### 🌐 &nbsp;Let's Connect & Build Together
+
+<a href="https://www.linkedin.com/in/hamdibenjarrar"><img src="https://img.shields.io/badge/LinkedIn-Hamdi%20Ben%20Jarrar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:hamdibenjarrar@gmail.com"><img src="https://img.shields.io/badge/Gmail-hamdibenjarrar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/hamdibenjarrar"><img src="https://img.shields.io/badge/GitHub-hamdibenjarrar-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://npmx.dev"><img src="https://img.shields.io/badge/npmx.dev-Visit-FF6D00?style=for-the-badge&logo=npm&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" alt="wave"/>
+&nbsp;&nbsp;<strong>Open to freelance · Open Source · Let's build something meaningful!</strong>&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" alt="wave"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:24243e,50:302b63,100:0f0c29&reversal=true" width="100%"/>
+
+<div align="center">
+<sub>✨ <strong>Hamdi Ben Jarrar</strong> — Crafting the digital future from 🇹🇳 Tunisia · <em>Responsible · Innovative · Digital Creator</em></sub>
+</div>
