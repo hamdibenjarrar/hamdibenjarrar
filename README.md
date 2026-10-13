@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="#now"><img alt="status: building between Tunis and Tripoli" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building%20in%20Tunis%20and%20Tripoli"></a>
+  <a href="#now"><img alt="status: building in Tunis and Tripoli" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building%20in%20Tunis%20and%20Tripoli"></a>
   <a href="#evolution-score"><img alt="Evolution Score" src="https://mynthmarks.vercel.app/api/live?user=hamdibenjarrar&metric=evolution"></a>
   <a href="#community"><img alt="contributions this year" src="https://mynthmarks.vercel.app/api/live?user=hamdibenjarrar&metric=contributions"></a>
   <a href="#nomen"><img alt="agent: Nomen is on duty" src="https://mynthmarks.vercel.app/api/mark?kind=agent&value=Nomen%20on%20duty"></a>
@@ -66,21 +66,101 @@ I am self taught. My formal schooling ends at the baccalaureate (2014). I gradua
 
 ## Projects
 
-| Project | What it is | Status | Open |
-| :-- | :-- | :-- | :-- |
-| **MYNTHISM** | Creative AI studio: brand systems, sites and the agents behind them | <a href="https://mynthism.vercel.app"><img alt="live" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=live&label="></a> | <a href="https://mynthism.vercel.app"><img alt="site" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=mynthism.vercel.app"></a> |
-| **ALPHA** | One home for the studio, the academy, a council of eight agents and my portfolio | <a href="https://alpha-drab-nine.vercel.app"><img alt="building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building&label="></a> | <a href="https://alpha-drab-nine.vercel.app"><img alt="site" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=preview"></a> |
-| **Prevent** | The layer after the model. Runs any AI output eight years forward and returns the best eight futures | <a href="#prevent"><img alt="open source" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=open%20source&label="></a> | <a href="https://github.com/hamdibenjarrar/prevent"><img alt="code" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=Python"></a> |
-| **Mynthmarks** | Glass badges for GitHub, with a public Evolution Score. This page wears them | <a href="https://mynthmarks.vercel.app"><img alt="live" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=live&label="></a> | <a href="https://mynthmarks.vercel.app"><img alt="site" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=builder"></a> <a href="https://github.com/hamdibenjarrar/mynthmarks"><img alt="code" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=JavaScript"></a> |
-| **Aura** | Arabic first assistant that answers from an organisation's own documents and cites them | <a href="#agents"><img alt="building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building&label="></a> | <a href="#agents"><img alt="see agents" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Agents"></a> |
-| **Ghazala Cinematic Lab** | Magazine issue 01 designed and published. Animated website in Arabic, English and French | <a href="https://ghazala-cinematic-lab.vercel.app"><img alt="building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building&label="></a> | <a href="https://ghazala-cinematic-lab.vercel.app"><img alt="site" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=preview"></a> |
-| **Al-Marsam Organization** | Brand system in Arabic and English and a new Arabic first website for a Libyan cultural NGO | <a href="https://almarsm.org"><img alt="building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building&label="></a> | <a href="https://almarsm.org"><img alt="site" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=almarsm.org"></a> |
-| **npm Pulse** | Free, open API that gives any npm package a health score | <a href="https://npm-pulse.vercel.app"><img alt="live" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=live&label="></a> | <a href="https://npm-pulse.vercel.app"><img alt="site" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=npm-pulse"></a> <a href="https://github.com/hamdibenjarrar/npm-Pulse"><img alt="code" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=TypeScript"></a> |
-| **god-designer** | A Claude skill for design, motion, marketing and growth. WCAG 2.1 AA | <a href="https://github.com/hamdibenjarrar/god-designer"><img alt="open source" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=open%20source&label="></a> | <a href="https://github.com/hamdibenjarrar/god-designer"><img alt="code" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=skill"></a> |
-| **awesome-arabic-dev** | Curated resources for Arabic speaking developers | <a href="https://github.com/hamdibenjarrar/awesome-arabic-dev"><img alt="open source" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=open%20source&label="></a> | <a href="https://github.com/hamdibenjarrar/awesome-arabic-dev"><img alt="code" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=list"></a> |
-| **DinarWise** | Personal finance tracker | <a href="https://github.com/hamdibenjarrar/DinarWise"><img alt="open source" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=open%20source&label="></a> | <a href="https://github.com/hamdibenjarrar/DinarWise"><img alt="code" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=JavaScript"></a> |
-| **Tunisia Hopes** | A sector by sector renewal plan for Tunisia, with a public vote and comments | <a href="#now"><img alt="building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building&label="></a> | <a href="#now"><img alt="see now" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Now"></a> |
-| **DAYM** | An always on AI companion for the Middle East and North Africa, with Fenn the fennec fox | <a href="#agents"><img alt="design" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=design&label="></a> | <a href="#agents"><img alt="see agents" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Agents"></a> |
+### MYNTHISM
+
+<a href="https://mynthism.vercel.app"><img alt="status: live" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=live"></a>
+<a href="https://mynthism.vercel.app"><img alt="site: mynthism.vercel.app" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=mynthism.vercel.app"></a>
+
+Creative AI studio: brand systems, sites and the agents behind them.
+
+### ALPHA
+
+<a href="https://alpha-drab-nine.vercel.app"><img alt="status: building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building"></a>
+<a href="https://alpha-drab-nine.vercel.app"><img alt="site: preview" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=preview"></a>
+<a href="#agents"><img alt="agents: council of eight" src="https://mynthmarks.vercel.app/api/mark?kind=agent&label=agents&value=council%20of%20eight"></a>
+
+One home for the studio, the academy, a council of eight agents and my portfolio.
+
+### Prevent
+
+<a href="#prevent"><img alt="status: open source" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=open%20source"></a>
+<a href="https://github.com/hamdibenjarrar/prevent"><img alt="code: Python" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=Python"></a>
+<a href="https://github.com/hamdibenjarrar/prevent/actions/workflows/ci.yml"><img alt="Prevent tests" src="https://github.com/hamdibenjarrar/prevent/actions/workflows/ci.yml/badge.svg"></a>
+
+The layer after the model. Runs any AI output eight years forward and returns the best eight futures. [How it works](#prevent).
+
+### Mynthmarks
+
+<a href="https://mynthmarks.vercel.app"><img alt="status: live" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=live"></a>
+<a href="https://mynthmarks.vercel.app"><img alt="site: builder" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=builder"></a>
+<a href="https://github.com/hamdibenjarrar/mynthmarks"><img alt="code: JavaScript" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=JavaScript"></a>
+
+Glass badges for GitHub, with a public Evolution Score. Every badge on this page is one. [How it works](#mynthmarks).
+
+### Aura
+
+<a href="#agents"><img alt="status: building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building"></a>
+<a href="#agents"><img alt="ai: Arabic first" src="https://mynthmarks.vercel.app/api/mark?kind=ai&value=Arabic%20first"></a>
+
+An assistant that lives in a small organisation's site, answers from its own documents, cites them, and hands over to a human.
+
+### Ghazala Cinematic Lab
+
+<a href="https://ghazala-cinematic-lab.vercel.app"><img alt="status: building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building"></a>
+<a href="https://ghazala-cinematic-lab.vercel.app"><img alt="site: preview" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=preview"></a>
+<a href="#ghazala-cinematic-lab"><img alt="achievement: magazine issue 01" src="https://mynthmarks.vercel.app/api/mark?kind=achievement&value=magazine%20issue%2001"></a>
+
+A film lab in Tripoli. I designed and art directed issue 01 of its magazine, and I am building its animated website in Arabic, English and French.
+
+### Al-Marsam Organization
+
+<a href="https://almarsm.org"><img alt="status: building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building"></a>
+<a href="https://almarsm.org"><img alt="site: almarsm.org" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=almarsm.org"></a>
+<a href="#community"><img alt="community: Libyan cultural NGO" src="https://mynthmarks.vercel.app/api/mark?kind=community&value=Libyan%20cultural%20NGO"></a>
+
+I lead its innovation sector. A brand system in Arabic and English and a new Arabic first website.
+
+### npm Pulse
+
+<a href="https://npm-pulse.vercel.app"><img alt="status: live" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=live"></a>
+<a href="https://npm-pulse.vercel.app"><img alt="site: npm-pulse.vercel.app" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=npm-pulse.vercel.app"></a>
+<a href="https://github.com/hamdibenjarrar/npm-Pulse"><img alt="code: TypeScript" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=TypeScript"></a>
+
+A free, open API that gives any npm package a health score.
+
+### god-designer
+
+<a href="https://github.com/hamdibenjarrar/god-designer"><img alt="status: open source" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=open%20source"></a>
+<a href="https://github.com/hamdibenjarrar/god-designer"><img alt="code: Claude skill" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=Claude%20skill"></a>
+
+A skill for design, motion, marketing and growth. More than twenty libraries, WCAG 2.1 AA.
+
+### awesome-arabic-dev
+
+<a href="https://github.com/hamdibenjarrar/awesome-arabic-dev"><img alt="status: open source" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=open%20source"></a>
+<a href="https://github.com/hamdibenjarrar/awesome-arabic-dev"><img alt="community: Arabic speaking developers" src="https://mynthmarks.vercel.app/api/mark?kind=community&value=Arabic%20speaking%20developers"></a>
+
+Curated tools, tutorials, communities and projects for Arabic speaking developers.
+
+### DinarWise
+
+<a href="https://github.com/hamdibenjarrar/DinarWise"><img alt="status: open source" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=open%20source"></a>
+<a href="https://github.com/hamdibenjarrar/DinarWise"><img alt="code: JavaScript" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=JavaScript"></a>
+
+A personal finance tracker.
+
+### Tunisia Hopes
+
+<a href="#now"><img alt="status: building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building"></a>
+
+A sector by sector renewal plan for Tunisia, with a public vote and comments.
+
+### DAYM
+
+<a href="#agents"><img alt="status: design" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=design"></a>
+<a href="#agents"><img alt="agent: Fenn" src="https://mynthmarks.vercel.app/api/mark?kind=agent&value=Fenn"></a>
+
+An always on AI companion for the Middle East and North Africa, with Fenn the fennec fox.
 
 <sub><a href="#top">Back to top</a></sub>
 
@@ -102,15 +182,13 @@ flowchart LR
   H --> D[DAYM and Fenn<br/>a companion that grows with you]
 ```
 
-| Agent | Job | Status |
-| :-- | :-- | :-- |
-| **Nomen** | Wakes every six hours, reads my public activity, redraws its own card and greets visitors | <a href="#nomen"><img alt="live" src="https://mynthmarks.vercel.app/api/mark?kind=agent&value=awake&tone=mint"></a> |
-| **Alpha OS** | My personal operating system. Rotates free model providers, hands skills to sub agents, runs on my laptop and in the cloud | <a href="#agents"><img alt="building" src="https://mynthmarks.vercel.app/api/mark?kind=agent&value=building&tone=gold"></a> |
-| **Council of eight** | Eight agents that research, write and publish for the studio | <a href="https://alpha-drab-nine.vercel.app"><img alt="building" src="https://mynthmarks.vercel.app/api/mark?kind=agent&value=building&tone=gold"></a> |
-| **Prevent** | Checks a plan before it ships by running it years forward | <a href="#prevent"><img alt="open source" src="https://mynthmarks.vercel.app/api/mark?kind=ai&value=open%20source&tone=mint"></a> |
-| **Aura** | Lives in a small organisation's site, answers from its documents, cites sources, hands over to a human | <a href="#projects"><img alt="building" src="https://mynthmarks.vercel.app/api/mark?kind=ai&value=building&tone=gold"></a> |
-| **SIJILL** | Makes an institution's paper archive readable and auditable. No answer without a citation to a real page | <a href="#projects"><img alt="concept" src="https://mynthmarks.vercel.app/api/mark?kind=ai&value=concept&tone=ice"></a> |
-| **Fenn** | The DAYM companion. Starts small and grows with each person | <a href="#projects"><img alt="design" src="https://mynthmarks.vercel.app/api/mark?kind=agent&value=design&tone=ice"></a> |
+- <a href="#nomen"><img alt="Nomen: awake" src="https://mynthmarks.vercel.app/api/mark?kind=agent&label=Nomen&value=awake&tone=mint"></a> Wakes every six hours, reads my public activity, redraws its own card and greets visitors.
+- <a href="#agents"><img alt="Alpha OS: building" src="https://mynthmarks.vercel.app/api/mark?kind=agent&label=Alpha%20OS&value=building&tone=gold"></a> My personal operating system. Rotates free model providers, hands skills to sub agents, runs on my laptop and in the cloud.
+- <a href="https://alpha-drab-nine.vercel.app"><img alt="Council of eight: building" src="https://mynthmarks.vercel.app/api/mark?kind=agent&label=Council&value=building&tone=gold"></a> Eight agents that research, write and publish for the studio.
+- <a href="#prevent"><img alt="Prevent: open source" src="https://mynthmarks.vercel.app/api/mark?kind=ai&label=Prevent&value=open%20source&tone=mint"></a> Checks a plan before it ships by running it years forward.
+- <a href="#aura"><img alt="Aura: building" src="https://mynthmarks.vercel.app/api/mark?kind=ai&label=Aura&value=building&tone=gold"></a> Answers from an organisation's own documents, cites sources, hands over to a human.
+- <a href="#aura"><img alt="SIJILL: concept" src="https://mynthmarks.vercel.app/api/mark?kind=ai&label=SIJILL&value=concept&tone=ice"></a> Makes an institution's paper archive readable and auditable. No answer without a citation to a real page.
+- <a href="#daym"><img alt="Fenn: design" src="https://mynthmarks.vercel.app/api/mark?kind=agent&label=Fenn&value=design&tone=ice"></a> The DAYM companion. Starts small and grows with each person.
 
 <sub><a href="#top">Back to top</a></sub>
 
@@ -118,9 +196,9 @@ flowchart LR
 
 ## Prevent, the layer after the model
 
-<a href="https://github.com/hamdibenjarrar/prevent"><img alt="Prevent on GitHub" src="https://mynthmarks.vercel.app/api/mark?kind=ai&label=prevent&value=0.1.0"></a>
+<a href="https://github.com/hamdibenjarrar/prevent"><img alt="Prevent 0.1.0" src="https://mynthmarks.vercel.app/api/mark?kind=ai&label=prevent&value=0.1.0"></a>
 <a href="https://github.com/hamdibenjarrar/prevent/actions/workflows/ci.yml"><img alt="Prevent tests" src="https://github.com/hamdibenjarrar/prevent/actions/workflows/ci.yml/badge.svg"></a>
-<a href="https://github.com/hamdibenjarrar/prevent#models"><img alt="any model" src="https://mynthmarks.vercel.app/api/mark?kind=functions&label=models&value=any%20model"></a>
+<a href="https://github.com/hamdibenjarrar/prevent#models"><img alt="models: any model" src="https://mynthmarks.vercel.app/api/mark?kind=functions&label=models&value=any%20model"></a>
 
 Give Prevent any output, a plan, a draft, a decision, and it runs it years forward, branch by branch, scores every path, and hands back the best eight futures with the moves that keep each one reachable from today. It is not a prophet. A future is a scored scenario with its assumptions written down.
 
@@ -223,11 +301,9 @@ Open the [builder](https://mynthmarks.vercel.app), read the [source](https://git
 
 **Merged into open source projects**
 
-| Project | What I added | |
-| :-- | :-- | :-- |
-| EbookFoundation / free-programming-books | Pro Git in Arabic | <a href="https://github.com/EbookFoundation/free-programming-books/pull/13176"><img alt="merged" src="https://mynthmarks.vercel.app/api/mark?kind=contributions&value=merged"></a> |
-| npmx.dev | Missing Egyptian Arabic and French translation keys | <a href="https://github.com/npmx-dev/npmx.dev/pull/2315"><img alt="merged" src="https://mynthmarks.vercel.app/api/mark?kind=contributions&value=merged"></a> |
-| npmx.dev | A package health score widget powered by npm Pulse, proposed | <a href="https://github.com/npmx-dev/npmx.dev/pull/2333"><img alt="proposed" src="https://mynthmarks.vercel.app/api/mark?kind=contributions&value=proposed&tone=slate"></a> |
+- <a href="https://github.com/EbookFoundation/free-programming-books/pull/13176"><img alt="merged" src="https://mynthmarks.vercel.app/api/mark?kind=contributions&value=merged"></a> **free-programming-books**: added Pro Git in Arabic.
+- <a href="https://github.com/npmx-dev/npmx.dev/pull/2315"><img alt="merged" src="https://mynthmarks.vercel.app/api/mark?kind=contributions&value=merged"></a> **npmx.dev**: added the missing Egyptian Arabic and French translation keys.
+- <a href="https://github.com/npmx-dev/npmx.dev/pull/2333"><img alt="proposed" src="https://mynthmarks.vercel.app/api/mark?kind=contributions&value=proposed&tone=slate"></a> **npmx.dev**: proposed a package health score widget powered by npm Pulse.
 
 **Communities I build with**
 
