@@ -1,0 +1,52 @@
+name: Nomen wakes up
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/nomen.yml"]
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: nomen
+  cancel-in-progress: false
+
+jobs:
+  wake:
+    if: github.event_name != 'issues' || startsWith(github.event.issue.title, 'nomen') || startsWith(github.event.issue.title, 'Nomen')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Nomen reads the profile and redraws itself
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          VISITOR: ${{ github.event.issue.user.login }}
+        run: node scripts/nomen.mjs
+      - name: Save what Nomen learned
+        run: |
+          git config user.name "Hamdi Ben Jarrar"
+          git config user.email "hamdibenjarrar@gmail.com"
+          git add assets/nomen.svg assets/nomen.json
+          git diff --cached --quiet || git commit -m "Nomen woke up"
+          git push
+      - name: Nomen answers the visitor
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUMBER: ${{ github.event.issue.number }}
+          VISITOR: ${{ github.event.issue.user.login }}
+        run: |
+          gh issue comment "$NUMBER" --repo "$GITHUB_REPOSITORY" --body "Hello @$VISITOR. I am Nomen, the small agent that lives on this profile. I have written your name on my card, and it will show the next time the page loads. Thank you for stopping by."
+          gh issue close "$NUMBER" --repo "$GITHUB_REPOSITORY"
