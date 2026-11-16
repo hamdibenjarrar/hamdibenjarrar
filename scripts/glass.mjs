@@ -35,6 +35,7 @@ export function card(w, h, body, { label = '', orbs = [[0.14, 0.2, C.crimson], [
 .in{animation:in .9s cubic-bezier(.16,1,.3,1) backwards}
 @keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
 .pulse{animation:pulse 2s ease-in-out infinite}@keyframes pulse{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
 ${extraCss}
 </style>
 <g clip-path="url(#frame)">
@@ -72,6 +73,45 @@ ${lines.map((l, i) => `<text class="rot" style="animation-delay:${i * 4}s" x="76
 <g class="core"><circle cx="1010" cy="222" r="62" fill="#fff" fill-opacity=".08" stroke="url(#edge)"/><text x="1010" y="246" text-anchor="middle" font-family="${SANS}" font-size="68" fill="${C.gold}">◈</text></g>
 </g>`;
   return card(1200, 444, body, { label: 'Hamdi Ben Jarrar. Designer, full stack and AI developer, creative director. Founder of MYNTHISM. Tunis and Tripoli.', extraCss: css });
+}
+
+function launch() {
+  const css = `.island{animation:island 5s cubic-bezier(.16,1,.3,1) infinite}@keyframes island{0%,100%{transform:scaleX(1)}50%{transform:scaleX(1.05)}}
+.float{animation:float 6s ease-in-out infinite alternate}@keyframes float{to{transform:translateY(-8px)}}
+.float2{animation:float 7.5s ease-in-out -2s infinite alternate}@keyframes float2{to{transform:translateY(7px)}}
+.spring{transform-box:fill-box;transform-origin:center;animation:spring .9s cubic-bezier(.16,1,.3,1) both}@keyframes spring{0%{opacity:0;transform:scale(.82) translateY(18px)}70%{transform:scale(1.04) translateY(-2px)}100%{opacity:1;transform:scale(1) translateY(0)}}
+.orbit{transform-origin:1030px 258px;animation:orbit 22s linear infinite}@keyframes orbit{to{transform:rotate(360deg)}}
+.ticker{animation:ticker 14s cubic-bezier(.16,1,.3,1) infinite}@keyframes ticker{0%,25%{opacity:1;transform:translateY(0)}33%,58%{opacity:0;transform:translateY(-8px)}66%,91%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(-8px)}}`;
+  const icon = (x, y, glyph, label, color, delay = 0) =>
+    `<g class="spring" style="animation-delay:${delay}s"><circle cx="${x}" cy="${y}" r="27" fill="${color}" fill-opacity=".16" stroke="${color}" stroke-opacity=".62"/><text x="${x}" y="${y + 7}" text-anchor="middle" font-family="${SANS}" font-size="21" fill="${color}">${glyph}</text>${T(x, y + 51, label, { size: 12, fill: C.dim, anchor: 'middle' })}</g>`;
+  const body = `
+${T(48, 42, 'MYNTHISM / PROFILE OS', { font: MONO, size: 12, ls: 2.4, fill: C.gold, cls: 'in' })}
+<g class="island"><rect x="538" y="24" width="124" height="28" rx="14" fill="#000" fill-opacity=".72" stroke="#fff" stroke-opacity=".18"/><circle cx="560" cy="38" r="4" fill="${C.gold}" class="pulse"/><circle cx="640" cy="38" r="4" fill="${C.ice}" class="pulse" style="animation-delay:.7s"/></g>
+${T(1152, 42, 'TUN · TRIPOLI', { font: MONO, size: 12, ls: 2, fill: C.dim, anchor: 'end', cls: 'in', delay: .1 })}
+${glass(36, 68, 1128, 456, 30, .07)}
+<rect x="58" y="90" width="1084" height="72" rx="22" fill="#fff" fill-opacity=".045" stroke="#fff" stroke-opacity=".11"/>
+<circle cx="94" cy="126" r="20" fill="${C.gold}" fill-opacity=".22" stroke="${C.gold}" stroke-opacity=".65"/>
+<text x="94" y="133" text-anchor="middle" font-family="${SANS}" font-size="20" fill="${C.gold}">◈</text>
+${T(130, 120, 'Welcome to my profile.', { size: 22, weight: 700, cls: 'in', delay: .12 })}
+${T(130, 145, 'A living profile for design, code, and useful intelligence.', { size: 14, fill: C.dim, cls: 'in', delay: .2 })}
+${T(1108, 122, 'ACTIVE', { font: MONO, size: 11, ls: 1.8, fill: C.gold, anchor: 'end' })}
+<circle cx="1124" cy="118" r="4" fill="${C.gold}" class="pulse"/>
+${glass(58, 184, 430, 298, 24, .055)}
+${T(84, 220, 'NOW PLAYING', { font: MONO, size: 11, ls: 2.2, fill: C.gold })}
+${T(84, 270, 'Build beautiful things', { size: 28, weight: 700, cls: 'in', delay: .3 })}
+${T(84, 298, 'that keep working after', { size: 28, weight: 700, cls: 'in', delay: .38 })}
+${T(84, 326, 'the applause.', { size: 28, weight: 700, fill: C.gold, cls: 'in', delay: .46 })}
+<rect x="84" y="358" width="300" height="4" rx="2" fill="#fff" fill-opacity=".1"/><rect x="84" y="358" width="178" height="4" rx="2" fill="${C.gold}"/>
+${T(84, 392, 'DESIGN  ·  BUILD  ·  MAKE IT MATTER', { font: MONO, size: 11, ls: 1.3, fill: C.dim })}
+${T(84, 438, 'MYNTHISM', { font: MONO, size: 12, ls: 2, fill: C.gold })}
+<g class="ticker">${T(84, 462, 'Creative AI studio', { size: 14, fill: C.ivory })}</g><g class="ticker" style="animation-delay:4.6s">${T(84, 462, 'Arabic-first systems', { size: 14, fill: C.ivory })}</g><g class="ticker" style="animation-delay:9.2s">${T(84, 462, 'Tunis × Tripoli', { size: 14, fill: C.ivory })}</g>
+${glass(514, 184, 628, 138, 24, .055)}
+${T(542, 220, 'QUICK ACCESS', { font: MONO, size: 11, ls: 2.2, fill: C.gold })}
+${icon(574, 262, '✦', 'About', C.ice, .12)}${icon(674, 262, '⌁', 'Projects', C.gold, .18)}${icon(774, 262, '◌', 'Agents', C.crimson, .24)}${icon(874, 262, '↗', 'Path', C.ice, .30)}${icon(974, 262, '♡', 'Support', C.gold, .36)}
+<g class="float">${glass(514, 344, 300, 138, 24, .055)}${T(542, 378, 'EVOLUTION', { font: MONO, size: 11, ls: 2.2, fill: C.gold })}${T(542, 426, 'STEADY > LOUD', { size: 24, weight: 700 })}${T(542, 454, 'A profile that grows in public.', { size: 13.5, fill: C.dim })}</g>
+<g class="float2">${glass(842, 344, 300, 138, 24, .055)}${T(870, 378, 'ON DUTY', { font: MONO, size: 11, ls: 2.2, fill: C.ice })}${T(870, 426, 'NOMEN', { size: 24, weight: 700, fill: C.ice })}${T(870, 454, 'A small agent keeps watch.', { size: 13.5, fill: C.dim })}</g>
+<g class="orbit"><circle cx="1030" cy="258" r="44" fill="none" stroke="${C.gold}" stroke-opacity=".32" stroke-dasharray="2 12"/><circle cx="1074" cy="258" r="4" fill="${C.gold}"/></g>`;
+  return card(1200, 560, body, { label: 'MYNTHISM profile operating system. Hamdi Ben Jarrar, designer and developer. Quick access to About, Projects, Agents, Path, and Support.', extraCss: css, orbs: [[0.08, 0.18, C.ice], [0.92, 0.78, C.gold], [0.52, 0.46, C.crimson]] });
 }
 
 function now() {
@@ -135,6 +175,7 @@ function button(name, label) {
 if (import.meta.url === `file://${process.argv[1]}`) {
   mkdirSync('assets', { recursive: true });
   writeFileSync('assets/hero.svg', hero());
+  writeFileSync('assets/launch.svg', launch());
   writeFileSync('assets/now.svg', now());
   writeFileSync('assets/stack.svg', stack());
   writeFileSync('assets/path.svg', path());

@@ -1,17 +1,8 @@
 <a name="top"></a>
 
 <p align="center">
-  <a href="#about"><img src="assets/hero.svg" width="100%" alt="Hamdi Ben Jarrar. Designer, full stack and AI developer, creative director. Founder of MYNTHISM. Tunis and Tripoli."></a>
+  <a href="#about"><img src="assets/launch.svg" width="100%" alt="MYNTHISM profile operating system. Hamdi Ben Jarrar, designer and developer. Quick access to About, Projects, Agents, Path, and Support."></a>
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><sub>✦ ROLE</sub><br><strong>Designer × Developer</strong></td>
-    <td align="center" width="25%"><sub>⌖ BASE</sub><br><strong>Tunis · Tripoli</strong></td>
-    <td align="center" width="25%"><sub>◈ STUDIO</sub><br><strong>MYNTHISM</strong></td>
-    <td align="center" width="25%"><sub>↗ OPEN TO</sub><br><strong>Good collaborations</strong></td>
-  </tr>
-</table>
 
 <p align="center">
   <a href="#about"><img alt="About" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=About"></a>
@@ -35,6 +26,12 @@
 
 <p align="center">
   <sub><strong>DESIGN</strong> · <strong>BUILD</strong> · <strong>MAKE IT MATTER</strong></sub>
+</p>
+
+<p align="center">
+  <a href="#about"><img alt="profile" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Profile%20OS&tone=ice"></a>
+  <a href="#now"><img alt="live build status" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=live%20build&tone=mint"></a>
+  <a href="#nomen"><img alt="Nomen automation" src="https://mynthmarks.vercel.app/api/mark?kind=agent&value=always%20on&tone=gold"></a>
 </p>
 
 <a name="nomen"></a>
