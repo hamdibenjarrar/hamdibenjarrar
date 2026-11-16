@@ -4,6 +4,15 @@
   <a href="#about"><img src="assets/hero.svg" width="100%" alt="Hamdi Ben Jarrar. Designer, full stack and AI developer, creative director. Founder of MYNTHISM. Tunis and Tripoli."></a>
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><sub>✦ ROLE</sub><br><strong>Designer × Developer</strong></td>
+    <td align="center" width="25%"><sub>⌖ BASE</sub><br><strong>Tunis · Tripoli</strong></td>
+    <td align="center" width="25%"><sub>◈ STUDIO</sub><br><strong>MYNTHISM</strong></td>
+    <td align="center" width="25%"><sub>↗ OPEN TO</sub><br><strong>Good collaborations</strong></td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="#about"><img alt="About" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=About"></a>
   <a href="#now"><img alt="Now" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Now"></a>
@@ -24,6 +33,10 @@
   <a href="#support"><img alt="support my work" src="https://mynthmarks.vercel.app/api/mark?kind=donate&value=support%20my%20work"></a>
 </p>
 
+<p align="center">
+  <sub><strong>DESIGN</strong> · <strong>BUILD</strong> · <strong>MAKE IT MATTER</strong></sub>
+</p>
+
 <a name="nomen"></a>
 
 <p align="center">
@@ -34,9 +47,15 @@
 
 ## About
 
-I am a designer and developer from Tunis, working between Tunisia and Libya. I founded **MYNTHISM**, a creative AI studio where I design brand systems, build the websites, and wire the agents that run behind them. I work in Arabic, French and English.
+I am a designer and developer from Tunis, working between Tunisia and Libya. I founded **MYNTHISM**, a creative AI studio where I shape the identity, build the product, and wire the agents behind it. I work in Arabic, French and English.
 
 I am self taught. My formal schooling ends at the baccalaureate (2014). I graduated from the GOMYCODE software developer bootcamp in April 2025 and have kept learning in public since. I also play jazz electro guitar.
+
+<p align="center">
+  <a href="#projects"><img alt="Explore projects" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Explore%20projects&tone=ice"></a>
+  <a href="#agents"><img alt="Meet the agents" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Meet%20the%20agents&tone=mint"></a>
+  <a href="#support"><img alt="Work together" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Work%20together&tone=gold"></a>
+</p>
 
 <sub><a href="#top">Back to top</a></sub>
 
