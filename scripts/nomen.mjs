@@ -78,7 +78,7 @@ ${eyes}
 </g>
 ${glass(380, 40, 780, 300, 24)}
 <circle class="pulse" cx="416" cy="80" r="5" fill="${awake ? '#57d38c' : C.dim}"/>
-${T(432, 85, 'NOMEN  ·  RESIDENT AGENT', { font: MONO, size: 13, ls: 3, fill: C.gold })}
+${T(432, 85, 'NOMEN, RESIDENT AGENT', { font: MONO, size: 13, ls: 3, fill: C.gold })}
 ${T(1124, 85, 'woke ' + now.toISOString().slice(0, 16).replace('T', ' ') + ' UTC', { font: MONO, size: 12, fill: C.dim, anchor: 'end' })}
 <line x1="412" y1="108" x2="1128" y2="108" stroke="#fff" stroke-opacity=".14"/>
 ${lines.map((l, i) => `<text class="say" style="animation-delay:${i * 5}s" x="414" y="186" font-family="${SANS}" font-size="27" font-weight="600" fill="${C.ivory}">${esc(l)}</text>`).join('')}

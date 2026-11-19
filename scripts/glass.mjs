@@ -1,4 +1,5 @@
 // Glass card kit for the profile. Plain SVG, no dependencies.
+// Copyright (c) 2026 Hamdi Ben Jarrar. All rights reserved.
 // node scripts/glass.mjs   builds every static card into assets/
 import { writeFileSync, mkdirSync } from 'node:fs';
 
@@ -54,17 +55,17 @@ const T = (x, y, s, { size = 16, fill = C.ivory, weight = 400, font = SANS, anch
 export { T };
 
 function hero() {
-  const lines = ['Founder of MYNTHISM, a creative AI studio.', 'I design the brand, build the site, and wire the agents behind it.', 'Self taught. Arabic, French, English, and some German.'];
+  const lines = ['Engineered in the shadow, trained on human emotion.', 'I coordinate the people, design the product, and build the system behind it.', 'Self taught. Arabic, French, English, and some German.'];
   const css = `.rot{opacity:0;animation:rot 12s linear infinite}@keyframes rot{0%,3%{opacity:0;transform:translateY(8px)}7%,30%{opacity:1;transform:none}34%,100%{opacity:0;transform:translateY(-8px)}}
 .ring{transform-origin:1010px 222px;animation:spin 28s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
 .core{transform-origin:1010px 222px;animation:breath 5s ease-in-out infinite}@keyframes breath{50%{transform:scale(1.06)}}`;
   const dots = Array.from({ length: 8 }, (_, i) => { const a = (i / 8) * Math.PI * 2; return `<circle cx="${(1010 + Math.cos(a) * 104).toFixed(1)}" cy="${(222 + Math.sin(a) * 104).toFixed(1)}" r="${i % 2 ? 3 : 5}" fill="${i % 2 ? C.ivory : C.gold}"/>`; }).join('');
   const body = `${glass(36, 36, 1128, 372, 26)}
-${T(76, 92, '◈  MYNTHISM', { font: MONO, size: 13, ls: 3, fill: C.gold, cls: 'in' })}
-${T(840, 92, 'TUNIS  ·  TRIPOLI', { font: MONO, size: 13, ls: 3, fill: C.dim, anchor: 'end', cls: 'in', delay: 0.1 })}
+${T(76, 92, '◈  HAMDI BEN JARRAR', { font: MONO, size: 13, ls: 3, fill: C.gold, cls: 'in' })}
+${T(840, 92, 'TRIPOLI, LIBYA', { font: MONO, size: 13, ls: 3, fill: C.dim, anchor: 'end', cls: 'in', delay: 0.1 })}
 ${T(74, 190, 'Hamdi Ben Jarrar', { size: 78, weight: 700, ls: -1.5, cls: 'in', delay: 0.15 })}
 <text class="in" style="animation-delay:.3s" x="76" y="240" font-family="'Geeza Pro','Noto Naskh Arabic','Segoe UI',Tahoma,Arial,sans-serif" font-size="30" fill="${C.ivory}" fill-opacity=".85" direction="rtl" text-anchor="end" unicode-bidi="plaintext">حمدي بن جرار</text>
-${T(76, 292, 'Designer  ·  Full stack and AI developer  ·  Creative director', { size: 21, fill: C.ivory, op: 0.92, cls: 'in', delay: 0.45 })}
+${T(76, 292, 'Project coordinator, designer and AI developer', { size: 21, fill: C.ivory, op: 0.92, cls: 'in', delay: 0.45 })}
 <rect class="in" style="animation-delay:.55s" x="76" y="314" width="56" height="2" fill="${C.gold}"/>
 ${lines.map((l, i) => `<text class="rot" style="animation-delay:${i * 4}s" x="76" y="354" font-family="${SANS}" font-size="18" fill="${C.dim}">${esc(l)}</text>`).join('')}
 <g class="in" style="animation-delay:.6s">
@@ -72,7 +73,7 @@ ${lines.map((l, i) => `<text class="rot" style="animation-delay:${i * 4}s" x="76
 <g class="ring">${dots}</g>
 <g class="core"><circle cx="1010" cy="222" r="62" fill="#fff" fill-opacity=".08" stroke="url(#edge)"/><text x="1010" y="246" text-anchor="middle" font-family="${SANS}" font-size="68" fill="${C.gold}">◈</text></g>
 </g>`;
-  return card(1200, 444, body, { label: 'Hamdi Ben Jarrar. Designer, full stack and AI developer, creative director. Founder of MYNTHISM. Tunis and Tripoli.', extraCss: css });
+  return card(1200, 444, body, { label: 'Hamdi Ben Jarrar. Project coordinator, designer and AI developer, based in Tripoli, Libya. Engineered in the shadow, trained on human emotion.', extraCss: css });
 }
 
 function launch() {
@@ -81,19 +82,19 @@ function launch() {
 .float2{animation:float 7.5s ease-in-out -2s infinite alternate}@keyframes float2{to{transform:translateY(7px)}}
 .spring{transform-box:fill-box;transform-origin:center;animation:spring .9s cubic-bezier(.16,1,.3,1) both}@keyframes spring{0%{opacity:0;transform:scale(.82) translateY(18px)}70%{transform:scale(1.04) translateY(-2px)}100%{opacity:1;transform:scale(1) translateY(0)}}
 .orbit{transform-origin:1030px 258px;animation:orbit 22s linear infinite}@keyframes orbit{to{transform:rotate(360deg)}}
-.ticker{animation:ticker 14s cubic-bezier(.16,1,.3,1) infinite}@keyframes ticker{0%,25%{opacity:1;transform:translateY(0)}33%,58%{opacity:0;transform:translateY(-8px)}66%,91%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(-8px)}}`;
+.ticker{opacity:0;animation:ticker 13.8s linear infinite}@keyframes ticker{0%,2%{opacity:0;transform:translateY(8px)}6%,30%{opacity:1;transform:none}33.3%,100%{opacity:0;transform:translateY(-8px)}}`;
   const icon = (x, y, glyph, label, color, delay = 0) =>
     `<g class="spring" style="animation-delay:${delay}s"><circle cx="${x}" cy="${y}" r="27" fill="${color}" fill-opacity=".16" stroke="${color}" stroke-opacity=".62"/><text x="${x}" y="${y + 7}" text-anchor="middle" font-family="${SANS}" font-size="21" fill="${color}">${glyph}</text>${T(x, y + 51, label, { size: 12, fill: C.dim, anchor: 'middle' })}</g>`;
   const body = `
-${T(48, 42, 'MYNTHISM / PROFILE OS', { font: MONO, size: 12, ls: 2.4, fill: C.gold, cls: 'in' })}
+${T(48, 42, 'HAMDI BEN JARRAR / PROFILE OS', { font: MONO, size: 12, ls: 2.4, fill: C.gold, cls: 'in' })}
 <g class="island"><rect x="538" y="24" width="124" height="28" rx="14" fill="#000" fill-opacity=".72" stroke="#fff" stroke-opacity=".18"/><circle cx="560" cy="38" r="4" fill="${C.gold}" class="pulse"/><circle cx="640" cy="38" r="4" fill="${C.ice}" class="pulse" style="animation-delay:.7s"/></g>
-${T(1152, 42, 'TUN · TRIPOLI', { font: MONO, size: 12, ls: 2, fill: C.dim, anchor: 'end', cls: 'in', delay: .1 })}
+${T(1152, 42, 'TRIPOLI, LIBYA', { font: MONO, size: 12, ls: 2, fill: C.dim, anchor: 'end', cls: 'in', delay: .1 })}
 ${glass(36, 68, 1128, 456, 30, .07)}
 <rect x="58" y="90" width="1084" height="72" rx="22" fill="#fff" fill-opacity=".045" stroke="#fff" stroke-opacity=".11"/>
 <circle cx="94" cy="126" r="20" fill="${C.gold}" fill-opacity=".22" stroke="${C.gold}" stroke-opacity=".65"/>
 <text x="94" y="133" text-anchor="middle" font-family="${SANS}" font-size="20" fill="${C.gold}">◈</text>
 ${T(130, 120, 'Welcome to my profile.', { size: 22, weight: 700, cls: 'in', delay: .12 })}
-${T(130, 145, 'A living profile for design, code, and useful intelligence.', { size: 14, fill: C.dim, cls: 'in', delay: .2 })}
+${T(130, 145, 'Engineered in the shadow, trained on human emotion.', { size: 14, fill: C.dim, cls: 'in', delay: .2 })}
 ${T(1108, 122, 'ACTIVE', { font: MONO, size: 11, ls: 1.8, fill: C.gold, anchor: 'end' })}
 <circle cx="1124" cy="118" r="4" fill="${C.gold}" class="pulse"/>
 ${glass(58, 184, 430, 298, 24, .055)}
@@ -102,68 +103,72 @@ ${T(84, 270, 'Build beautiful things', { size: 28, weight: 700, cls: 'in', delay
 ${T(84, 298, 'that keep working after', { size: 28, weight: 700, cls: 'in', delay: .38 })}
 ${T(84, 326, 'the applause.', { size: 28, weight: 700, fill: C.gold, cls: 'in', delay: .46 })}
 <rect x="84" y="358" width="300" height="4" rx="2" fill="#fff" fill-opacity=".1"/><rect x="84" y="358" width="178" height="4" rx="2" fill="${C.gold}"/>
-${T(84, 392, 'DESIGN  ·  BUILD  ·  MAKE IT MATTER', { font: MONO, size: 11, ls: 1.3, fill: C.dim })}
-${T(84, 438, 'MYNTHISM', { font: MONO, size: 12, ls: 2, fill: C.gold })}
-<g class="ticker">${T(84, 462, 'Creative AI studio', { size: 14, fill: C.ivory })}</g><g class="ticker" style="animation-delay:4.6s">${T(84, 462, 'Arabic-first systems', { size: 14, fill: C.ivory })}</g><g class="ticker" style="animation-delay:9.2s">${T(84, 462, 'Tunis × Tripoli', { size: 14, fill: C.ivory })}</g>
+${T(84, 392, 'COORDINATE, DESIGN, BUILD, MAKE IT MATTER', { font: MONO, size: 11, ls: 1.3, fill: C.dim })}
+${T(84, 438, 'WHAT I DO', { font: MONO, size: 12, ls: 2, fill: C.gold })}
+<g class="ticker">${T(84, 462, 'Coordination and communication', { size: 14, fill: C.ivory })}</g><g class="ticker" style="animation-delay:4.6s">${T(84, 462, 'Product design and code', { size: 14, fill: C.ivory })}</g><g class="ticker" style="animation-delay:9.2s">${T(84, 462, 'AI systems, Arabic first', { size: 14, fill: C.ivory })}</g>
 ${glass(514, 184, 628, 138, 24, .055)}
 ${T(542, 220, 'QUICK ACCESS', { font: MONO, size: 11, ls: 2.2, fill: C.gold })}
 ${icon(574, 262, '✦', 'About', C.ice, .12)}${icon(674, 262, '⌁', 'Projects', C.gold, .18)}${icon(774, 262, '◌', 'Agents', C.crimson, .24)}${icon(874, 262, '↗', 'Path', C.ice, .30)}${icon(974, 262, '♡', 'Support', C.gold, .36)}
 <g class="float">${glass(514, 344, 300, 138, 24, .055)}${T(542, 378, 'EVOLUTION', { font: MONO, size: 11, ls: 2.2, fill: C.gold })}${T(542, 426, 'STEADY > LOUD', { size: 24, weight: 700 })}${T(542, 454, 'A profile that grows in public.', { size: 13.5, fill: C.dim })}</g>
 <g class="float2">${glass(842, 344, 300, 138, 24, .055)}${T(870, 378, 'ON DUTY', { font: MONO, size: 11, ls: 2.2, fill: C.ice })}${T(870, 426, 'NOMEN', { size: 24, weight: 700, fill: C.ice })}${T(870, 454, 'A small agent keeps watch.', { size: 13.5, fill: C.dim })}</g>
 <g class="orbit"><circle cx="1030" cy="258" r="44" fill="none" stroke="${C.gold}" stroke-opacity=".32" stroke-dasharray="2 12"/><circle cx="1074" cy="258" r="4" fill="${C.gold}"/></g>`;
-  return card(1200, 560, body, { label: 'MYNTHISM profile operating system. Hamdi Ben Jarrar, designer and developer. Quick access to About, Projects, Agents, Path, and Support.', extraCss: css, orbs: [[0.08, 0.18, C.ice], [0.92, 0.78, C.gold], [0.52, 0.46, C.crimson]] });
+  return card(1200, 560, body, { label: 'Profile operating system of Hamdi Ben Jarrar, designer and developer. Quick access to About, Projects, Agents, Path, and Support.', extraCss: css, orbs: [[0.08, 0.18, C.ice], [0.92, 0.78, C.gold], [0.52, 0.46, C.crimson]] });
 }
 
 function now() {
   const items = [
-    ['MYNTHISM', 'A creative AI studio: brand systems, sites', 'and the agents that run behind them.', 'LIVE', C.gold],
-    ['Aura', 'An Arabic first assistant that answers from an', 'organisation’s own documents and cites them.', 'IN PROGRESS', C.ice],
-    ['Ghazala Cinematic Lab', 'Animated site in Arabic, English and French,', 'and the magazine, for a film lab in Tripoli.', 'PREVIEW LIVE', C.crimson],
-    ['npm Pulse', 'A free, open API that gives any npm package', 'a health score from 0 to 100.', 'LIVE', C.gold],
-    ['awesome-arabic-dev', 'A curated list of resources for', 'Arabic speaking developers.', 'OPEN SOURCE', C.ice],
-    ['DinarWise', 'A personal finance tracker built with', 'Next.js and MongoDB.', 'COMPLETE', C.dim]
+    ['Nabd Alhayat Clinic', 'A full clinic operating system, offline first,', 'installed on site in Tripoli, November 2026.', 'INSTALLED', C.gold],
+    ['Aura and SIJILL', 'An Arabic first assistant that answers from an', 'organisation’s own documents and cites them.', 'IN PROGRESS', C.ice],
+    ['Alpha OS', 'A personal agent operating system that rotates', 'model providers and hands skills to sub agents.', 'BUILDING', C.crimson],
+    ['Prevent 0.1.0', 'Runs any AI output eight years forward and', 'returns the best eight futures. Python.', 'OPEN SOURCE', C.ice],
+    ['PWABuilder by Microsoft', 'Three pull requests: agent readiness checks,', 'iOS packaging and offline crash recovery.', 'IN REVIEW', C.gold],
+    ['npm Pulse', 'A free, open API that gives any npm package', 'a health score from 0 to 100.', 'LIVE', C.dim]
   ];
-  let body = T(48, 62, 'NOW BUILDING', { font: MONO, size: 13, ls: 3, fill: C.gold });
+  let body = T(48, 62, 'NOW AND RECENT', { font: MONO, size: 13, ls: 3, fill: C.gold });
   items.forEach((it, i) => {
     const x = 36 + (i % 3) * 380, y = 88 + Math.floor(i / 3) * 196, c = chip(x + 24, y + 126, it[3], it[4]);
     body += `<g class="in" style="animation-delay:${0.1 * i}s">${glass(x, y, 368, 180, 20)}${T(x + 24, y + 46, it[0], { size: 23, weight: 700 })}${T(x + 24, y + 76, it[1], { size: 14.5, fill: C.dim })}${T(x + 24, y + 97, it[2], { size: 14.5, fill: C.dim })}${c.svg}</g>`;
   });
-  return card(1200, 500, body, { label: 'Now building: MYNTHISM, Aura, Ghazala Cinematic Lab, npm Pulse, awesome-arabic-dev, DinarWise.', orbs: [[0.1, 0.9, C.gold], [0.9, 0.1, C.crimson], [0.5, 0.4, C.ice]] });
+  return card(1200, 500, body, { label: 'Now and recent: Nabd Alhayat clinic system, Aura and SIJILL, Alpha OS, Prevent, PWABuilder pull requests, npm Pulse.', orbs: [[0.1, 0.9, C.gold], [0.9, 0.1, C.crimson], [0.5, 0.4, C.ice]] });
 }
 
 function stack() {
   const rows = [
-    ['INTERFACE', ['React', 'Next.js', 'TypeScript', 'Tailwind', 'Motion', 'GSAP', 'Three.js']],
+    ['COORDINATE', ['Project planning', 'Partners and embassies', 'Proposals and grants', 'Reporting', 'Events']],
+    ['PEOPLE', ['Team supervision', 'Recruitment', 'Coaching', 'KPI tracking', 'Customer care']],
+    ['DESIGN', ['Product and UI', 'Design systems', 'Brand identity', 'Arabic type', 'Figma', 'Motion']],
+    ['INTERFACE', ['React', 'Next.js', 'TypeScript', 'Tailwind', 'GSAP', 'Three.js', 'WCAG 2.1 AA']],
     ['SERVER', ['Node', 'Express', 'Python', 'FastAPI', 'Supabase', 'PostgreSQL', 'MongoDB']],
-    ['AGENTS', ['LLM APIs', 'RAG', 'Multi agent systems', 'MCP', 'n8n']],
-    ['SHIP', ['Vercel', 'Cloudflare', 'Docker', 'GitHub Actions']],
-    ['DESIGN', ['Brand identity', 'Art direction', 'Arabic and Latin type', 'Motion design']]
+    ['AGENTS', ['LLM APIs', 'RAG', 'Multi agent systems', 'MCP', 'n8n', 'Ollama', 'Qiskit']],
+    ['AI MEDIA', ['Remotion', 'Blender', 'HeyGen', 'Suno', 'Gemini', 'Grok', 'Higgsfield']],
+    ['SHIP', ['Vercel', 'Cloudflare', 'Docker', 'GitHub Actions', 'DNS and hosting']]
   ];
-  let body = T(48, 62, 'TOOLKIT', { font: MONO, size: 13, ls: 3, fill: C.gold }) + glass(36, 84, 1128, 300, 22);
+  let body = T(48, 62, 'TOOLKIT', { font: MONO, size: 13, ls: 3, fill: C.gold }) + glass(36, 84, 1128, 462, 22);
   rows.forEach((r, ri) => {
     const y = 110 + ri * 54; let x = 220;
     body += T(64, y + 18, r[0], { font: MONO, size: 12, ls: 2.4, fill: C.dim });
     r[1].forEach((s, si) => { const w = s.length * 8.6 + 34; body += `<g class="in" style="animation-delay:${(ri * 0.12 + si * 0.05).toFixed(2)}s"><rect x="${x}" y="${y}" width="${w}" height="34" rx="17" fill="#fff" fill-opacity=".07" stroke="url(#edge)"/><text x="${x + w / 2}" y="${y + 22}" text-anchor="middle" font-family="${SANS}" font-size="15" fill="${C.ivory}">${esc(s)}</text></g>`; x += w + 10; });
   });
-  return card(1200, 420, body, { label: 'Toolkit: React, Next.js, TypeScript, Tailwind, Motion, GSAP, Three.js, Node, Express, Python, FastAPI, Supabase, PostgreSQL, MongoDB, LLM APIs, RAG, multi agent systems, MCP, n8n, Vercel, Cloudflare, Docker, GitHub Actions, brand identity, art direction.', orbs: [[0.85, 0.85, C.gold], [0.15, 0.15, C.ice], [0.5, 0.6, C.crimson]] });
+  return card(1200, 580, body, { label: 'Toolkit: project planning, partners and embassies, proposals and grants, team supervision, recruitment, coaching, customer care, product and UI design, design systems, brand identity, Figma, React, Next.js, TypeScript, Tailwind, Motion, GSAP, Three.js, Node, Express, Python, FastAPI, Supabase, PostgreSQL, MongoDB, LLM APIs, RAG, multi agent systems, MCP, n8n, Ollama, Qiskit, Remotion, Blender, HeyGen, Vercel, Cloudflare, Docker, GitHub Actions.', orbs: [[0.85, 0.85, C.gold], [0.15, 0.15, C.ice], [0.5, 0.6, C.crimson]] });
 }
 
 function path() {
   const steps = [
+    ['2014 to 2021', ['Customer care,', 'team supervisor'], 'Call centres and retail'],
     ['2023', ['Brand and identity', 'designer'], 'Anis Ben Ammar Studio'],
-    ['2025', ['Software developer', 'bootcamp'], 'GOMYCODE, graduated April'],
-    ['2025', ['Founder', ''], 'MYNTHISM'],
-    ['2025', ['Innovation and digital', 'impact lead'], 'Wallah We Can Global'],
-    ['2026', ['Innovation sector', 'director'], 'Almarsm Organization, Tripoli']
+    ['2025', ['Full stack', 'bootcamp'], 'GOMYCODE'],
+    ['2025', ['Innovation and', 'digital impact lead'], 'Wallah We Can Global'],
+    ['2026', ['Director of', 'innovation'], 'Al-Marsam, Tripoli'],
+    ['NOW', ['Independent', 'coordinator'], 'Auto-entrepreneur']
   ];
   const css = `.line{stroke-dasharray:1100;stroke-dashoffset:1100;animation:draw 2.6s cubic-bezier(.16,1,.3,1) .2s forwards}@keyframes draw{to{stroke-dashoffset:0}}`;
   let body = T(48, 62, 'PATH', { font: MONO, size: 13, ls: 3, fill: C.gold }) + glass(36, 84, 1128, 258, 22) + `<path class="line" d="M90 150 H1110" stroke="${C.gold}" stroke-width="1.5" fill="none"/>`;
   steps.forEach((s, i) => {
-    const x = 90 + i * 212;
+    const x = 76 + i * 192;
     body += `<g class="in" style="animation-delay:${0.3 + i * 0.18}s"><circle cx="${x}" cy="150" r="7" fill="${C.void}" stroke="${C.gold}" stroke-width="2"/><circle class="pulse" style="animation-delay:${i * 0.3}s" cx="${x}" cy="150" r="3" fill="${C.gold}"/>${T(x - 8, 124, s[0], { font: MONO, size: 14, fill: C.gold, ls: 1 })}${T(x - 8, 190, s[1][0], { size: 15, weight: 700 })}${T(x - 8, 210, s[1][1], { size: 15, weight: 700 })}${T(x - 8, 236, s[2], { size: 13.5, fill: C.dim })}</g>`;
   });
-  body += T(64, 306, 'Self taught beyond the bootcamp. Baccalauréat 2014. All 16 Anthropic Academy certificates. MongoDB and Postman API certified.', { size: 14.5, fill: C.dim });
-  return card(1200, 378, body, { label: 'Path: brand designer at Anis Ben Ammar Studio 2023, GOMYCODE bootcamp graduated April 2025, founder of MYNTHISM 2025, innovation and digital impact lead at Wallah We Can Global 2025, innovation sector director at Almarsm Organization in Tripoli 2026. Self taught.', extraCss: css, orbs: [[0.2, 0.9, C.crimson], [0.8, 0.2, C.gold], [0.5, 0.5, C.ice]] });
+  body += T(64, 306, 'Baccalaureate in Computer Science, 2014. Self taught. All 16 Anthropic Academy certificates. Postman API Student Expert.', { size: 14.5, fill: C.dim });
+  return card(1200, 378, body, { label: 'Path: customer care and call centre supervision 2014 to 2021, brand designer at Anis Ben Ammar Studio 2023, GOMYCODE full stack bootcamp 2025, innovation and digital impact lead at Wallah We Can Global 2025, director of innovation at Al-Marsam in Tripoli 2026, independent designer, developer and coordinator now.', extraCss: css, orbs: [[0.2, 0.9, C.crimson], [0.8, 0.2, C.gold], [0.5, 0.5, C.ice]] });
 }
 
 function button(name, label) {
@@ -182,7 +187,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   button('btn-linkedin', 'LinkedIn');
   button('btn-instagram', 'Instagram');
   button('btn-email', 'hamdibenjarrar@gmail.com');
-  button('btn-mynthism', 'MYNTHISM');
+  button('btn-mynthism', 'Portfolio');
   button('btn-talk', 'Say hello to Nomen');
   console.log('cards built');
 }
