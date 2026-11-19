@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <p align="center">
-  <a href="#about"><img src="assets/launch.svg" width="100%" alt="MYNTHISM profile operating system. Hamdi Ben Jarrar, designer and developer. Quick access to About, Projects, Agents, Path, and Support."></a>
+  <a href="#about"><img src="assets/launch.svg" width="100%" alt="Profile operating system of Hamdi Ben Jarrar, designer and developer. Quick access to About, Projects, Agents, Path, and Support."></a>
 </p>
 
 <p align="center">
@@ -12,12 +12,14 @@
   <a href="#prevent"><img alt="Prevent" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Prevent"></a>
   <a href="#mynthmarks"><img alt="Mynthmarks" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Marks"></a>
   <a href="#community"><img alt="Community" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Community"></a>
-  <a href="#path"><img alt="Path" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Path"></a>
+  <a href="#experience"><img alt="Experience" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Experience"></a>
+  <a href="#skills"><img alt="Skills" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Skills"></a>
+  <a href="#certifications"><img alt="Certifications" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Certifications"></a>
   <a href="#support"><img alt="Support" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Support"></a>
 </p>
 
 <p align="center">
-  <a href="#now"><img alt="status: building in Tunis and Tripoli" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building%20in%20Tunis%20and%20Tripoli"></a>
+  <a href="#now"><img alt="status: based in Tripoli" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=based%20in%20Tripoli%2C%20Libya"></a>
   <a href="#evolution-score"><img alt="Evolution Score" src="https://mynthmarks.vercel.app/api/live?user=hamdibenjarrar&metric=evolution"></a>
   <a href="#community"><img alt="contributions this year" src="https://mynthmarks.vercel.app/api/live?user=hamdibenjarrar&metric=contributions"></a>
   <a href="#nomen"><img alt="agent: Nomen is on duty" src="https://mynthmarks.vercel.app/api/mark?kind=agent&value=Nomen%20on%20duty"></a>
@@ -25,7 +27,7 @@
 </p>
 
 <p align="center">
-  <sub><strong>DESIGN</strong> · <strong>BUILD</strong> · <strong>MAKE IT MATTER</strong></sub>
+  <sub><strong>ENGINEERED IN THE SHADOW, TRAINED ON HUMAN EMOTION</strong></sub>
 </p>
 
 <p align="center">
@@ -44,9 +46,17 @@
 
 ## About
 
-I am a designer and developer from Tunis, working between Tunisia and Libya. I founded **MYNTHISM**, a creative AI studio where I shape the identity, build the product, and wire the agents behind it. I work in Arabic, French and English.
+**Hamdi Ben Jarrar.** Project coordinator, designer and AI developer, based in Tripoli, Libya. Tunisian.
 
-I am self taught. My formal schooling ends at the baccalaureate (2014). I graduated from the GOMYCODE software developer bootcamp in April 2025 and have kept learning in public since. I also play jazz electro guitar.
+I started in retail and customer care, supervised a call centre team, and spent years helping people at their most frustrated, in French and at high volume. That is where I learned to listen, calm a situation and solve it. In parallel I taught myself design and code.
+
+Today I take projects from the first meeting to delivery. I coordinate people and institutions, write the documents, design the identity and the interface, and build the system behind it, including AI. I have worked with an international NGO, a Libyan cultural organisation, embassies and cultural institutes, clinics and private clients, in Arabic, French and English. I sign my own products with MYNTHISM, the name and creative voice I created.
+
+- **Roles I fit:** project coordinator, project and executive assistant, team lead and supervisor, communications officer, liaison and partnerships officer, digital and innovation officer, customer experience lead, product and UI designer, frontend and full stack developer, AI solutions developer.
+- **Languages:** Arabic, mother tongue. French and English, fluent. German, intermediate.
+- **Education:** Baccalaureate in Computer Science, Lycee Montfleury, Tunis, 2014. GOMYCODE full stack bootcamp, April 2025.
+- **Distinction:** first Tunisian to complete all 16 Anthropic Academy certificates.
+- I also play jazz electro guitar.
 
 <p align="center">
   <a href="#projects"><img alt="Explore projects" src="https://mynthmarks.vercel.app/api/mark?kind=nav&value=Explore%20projects&tone=ice"></a>
@@ -61,18 +71,18 @@ I am self taught. My formal schooling ends at the baccalaureate (2014). I gradua
 ## Now
 
 <p align="center">
-  <a href="#projects"><img src="assets/now.svg" width="100%" alt="Now building: MYNTHISM, Aura, Ghazala Cinematic Lab, npm Pulse, awesome-arabic-dev, DinarWise. Click to open the project list."></a>
+  <a href="#projects"><img src="assets/now.svg" width="100%" alt="Now and recent: Nabd Alhayat clinic system, Aura and SIJILL, Alpha OS, Prevent, PWABuilder pull requests, npm Pulse. Click to open the project list."></a>
 </p>
 
 ```json
 {
   "name": "Hamdi Ben Jarrar",
-  "base": "Tunis and Tripoli",
-  "studio": "MYNTHISM",
-  "role": "Innovation Sector Director and Project Lead, Al-Marsam Organization",
-  "building": ["ALPHA", "Alpha OS", "Aura", "Ghazala Cinematic Lab website", "Tunisia Hopes"],
-  "shipped": ["Prevent 0.1.0", "Mynthmarks", "npm Pulse", "Ghazala magazine issue 01"],
-  "openTo": ["collaborations", "sponsors", "design and AI work"]
+  "base": "Tripoli, Libya",
+  "role": "Project coordinator, designer and AI developer",
+  "status": "Auto-entrepreneur, independent since 2025",
+  "shipped": ["Nabd Alhayat clinic system", "Prevent 0.1.0", "Mynthmarks", "npm Pulse", "Daftar Al Ghazala issue 01"],
+  "building": ["Alpha OS", "Aura and SIJILL", "AI education platform", "Tunywood", "Siri concept film"],
+  "openTo": ["coordination roles", "design and AI work", "relocation to Milan", "collaborations"]
 }
 ```
 
@@ -82,12 +92,19 @@ I am self taught. My formal schooling ends at the baccalaureate (2014). I gradua
 
 ## Projects
 
-### MYNTHISM
+### Nabd Alhayat Clinic system
 
-<a href="https://mynthism.vercel.app"><img alt="status: live" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=live"></a>
-<a href="https://mynthism.vercel.app"><img alt="site: mynthism.vercel.app" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=mynthism.vercel.app"></a>
+<a href="#projects"><img alt="status: installed" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=installed%20on%20site"></a>
+<a href="#projects"><img alt="code: Python" src="https://mynthmarks.vercel.app/api/mark?kind=code&value=Python"></a>
+<a href="#projects"><img alt="achievement: November 2026" src="https://mynthmarks.vercel.app/api/mark?kind=achievement&value=November%202026"></a>
 
-Creative AI studio: brand systems, sites and the agents behind them.
+A full operating system for a clinic in Tripoli: patients, finance, doctors, staff, stock, pharmacy and printing. Python backend on a server inside the clinic, works offline, backs up to a Libyan provider. I installed it on site in November 2026, migrated the old data and trained the IT staff. I also made the clinic's brand guidelines, catering costing documents and animated website.
+
+### Client work in Tripoli
+
+<a href="#projects"><img alt="status: delivered" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=delivered"></a>
+
+A patient booking web app with online payment for Dr Ashraf Lakshin, neurosurgeon, with his brand guidelines and content. A professional Instagram presence for Dr Mouhaned Eghzail, dentist, in Libyan Arabic and English. Viva, an AI guide concept with its own mascot and a skill system per business sector, prepared as a proposal for Almaviva Group.
 
 ### ALPHA
 
@@ -95,7 +112,7 @@ Creative AI studio: brand systems, sites and the agents behind them.
 <a href="https://alpha-drab-nine.vercel.app"><img alt="site: preview" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=preview"></a>
 <a href="#agents"><img alt="agents: council of eight" src="https://mynthmarks.vercel.app/api/mark?kind=agent&label=agents&value=council%20of%20eight"></a>
 
-One home for the studio, the academy, a council of eight agents and my portfolio.
+One home for my products, an academy, a council of eight agents and my portfolio.
 
 ### Prevent
 
@@ -122,19 +139,19 @@ An assistant that lives in a small organisation's site, answers from its own doc
 
 ### Ghazala Cinematic Lab
 
-<a href="https://ghazala-cinematic-lab.vercel.app"><img alt="status: building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building"></a>
-<a href="https://ghazala-cinematic-lab.vercel.app"><img alt="site: preview" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=preview"></a>
+<a href="https://alghazalacinematiclab.org"><img alt="status: delivered" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=delivered"></a>
+<a href="https://alghazalacinematiclab.org"><img alt="site: alghazalacinematiclab.org" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=alghazalacinematiclab.org"></a>
 <a href="#ghazala-cinematic-lab"><img alt="achievement: magazine issue 01" src="https://mynthmarks.vercel.app/api/mark?kind=achievement&value=magazine%20issue%2001"></a>
 
-A film lab in Tripoli. I designed and art directed issue 01 of its magazine, and I am building its animated website in Arabic, English and French.
+A film lab in Tripoli. I designed and art directed issue 01 of its magazine, Daftar Al Ghazala, and built its animated website in Arabic, English and French, plus a personal site for its co founder at [kashoun.ly](https://kashoun.ly).
 
 ### Al-Marsam Organization
 
-<a href="https://almarsm.org"><img alt="status: building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building"></a>
+<a href="https://almarsm.org"><img alt="status: 2026" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=2026&tone=slate"></a>
 <a href="https://almarsm.org"><img alt="site: almarsm.org" src="https://mynthmarks.vercel.app/api/mark?kind=site&value=almarsm.org"></a>
 <a href="#community"><img alt="community: Libyan cultural NGO" src="https://mynthmarks.vercel.app/api/mark?kind=community&value=Libyan%20cultural%20NGO"></a>
 
-I lead its innovation sector. A brand system in Arabic and English and a new Arabic first website.
+I led its innovation sector until November 2026: brand system in Arabic and English, the almarsm.org rebuild, partner dossiers for embassies and cultural institutes, and grant proposals.
 
 ### npm Pulse
 
@@ -178,6 +195,28 @@ A sector by sector renewal plan for Tunisia, with a public vote and comments.
 
 An always on AI companion for the Middle East and North Africa, with Fenn the fennec fox.
 
+### More I created
+
+<a href="#projects"><img alt="kind: products" src="https://mynthmarks.vercel.app/api/mark?kind=tools&value=products"></a>
+
+- **Three AI studios:** video and image studios adapted from open source projects and powered by Claude, with Remotion and Blender.
+- **AI education platform:** learning in Arabic, French and English, built with Next.js, Supabase and Cloudflare Workers AI.
+- **Quantum engine:** my own Qiskit engine for quantum driven art, motion and sound.
+- **Likeness Licensing Stack:** a prototype that finds a person's face in AI media and licenses it.
+
+<a href="#projects"><img alt="kind: films" src="https://mynthmarks.vercel.app/api/mark?kind=tools&value=films%20and%20content"></a>
+
+- **Tunywood:** a movie style film of my own life story. In production.
+- **Siri concept and HIGGSFIELD IS DEAD:** a full redesign of Siri with a story film, and a persona film coded with AI from my own face references. In production.
+- **Sahbi Bot:** a human versus AI comedy series in Tunisian Arabic, English and French.
+- **Ifriqiya and Grok explainers:** a documentary series on the history of Tunisia, and motion explainers on Grok.
+
+<a href="#projects"><img alt="kind: brand" src="https://mynthmarks.vercel.app/api/mark?kind=tools&value=brand%20and%20strategy"></a>
+
+- **LNET and Hajer Club:** competition entries for Libya's largest private internet provider (172 mockups, 31 motion pieces) and a Saudi football club.
+- **Libyan brand prototypes:** Hallali, The Castle Auction, Alfardous Clinic, Al Naseem, BARQ and EspressoLab. Prototypes, not delivered client work.
+- **Ignomivium:** logo and identity for an extreme metal band.
+
 <sub><a href="#top">Back to top</a></sub>
 
 <a name="agents"></a>
@@ -200,7 +239,7 @@ flowchart LR
 
 - <a href="#nomen"><img alt="Nomen: awake" src="https://mynthmarks.vercel.app/api/mark?kind=agent&label=Nomen&value=awake&tone=mint"></a> Wakes every six hours, reads my public activity, redraws its own card and greets visitors.
 - <a href="#agents"><img alt="Alpha OS: building" src="https://mynthmarks.vercel.app/api/mark?kind=agent&label=Alpha%20OS&value=building&tone=gold"></a> My personal operating system. Rotates free model providers, hands skills to sub agents, runs on my laptop and in the cloud.
-- <a href="https://alpha-drab-nine.vercel.app"><img alt="Council of eight: building" src="https://mynthmarks.vercel.app/api/mark?kind=agent&label=Council&value=building&tone=gold"></a> Eight agents that research, write and publish for the studio.
+- <a href="https://alpha-drab-nine.vercel.app"><img alt="Council of eight: building" src="https://mynthmarks.vercel.app/api/mark?kind=agent&label=Council&value=building&tone=gold"></a> Eight agents that research, write and publish for my projects.
 - <a href="#prevent"><img alt="Prevent: open source" src="https://mynthmarks.vercel.app/api/mark?kind=ai&label=Prevent&value=open%20source&tone=mint"></a> Checks a plan before it ships by running it years forward.
 - <a href="#aura"><img alt="Aura: building" src="https://mynthmarks.vercel.app/api/mark?kind=ai&label=Aura&value=building&tone=gold"></a> Answers from an organisation's own documents, cites sources, hands over to a human.
 - <a href="#aura"><img alt="SIJILL: concept" src="https://mynthmarks.vercel.app/api/mark?kind=ai&label=SIJILL&value=concept&tone=ice"></a> Makes an institution's paper archive readable and auditable. No answer without a citation to a real page.
@@ -246,7 +285,7 @@ Run it on your own machine with any local model:
 ```bash
 pip install git+https://github.com/hamdibenjarrar/prevent
 ollama pull qwen2.5:7b
-prevent "I launch a one person AI studio in Tunis with no funding" --years 8 --out futures
+prevent "I launch a one person design and AI business in Tripoli with no funding" --years 8 --out futures
 ```
 
 <sub><a href="#top">Back to top</a></sub>
@@ -319,12 +358,13 @@ Open the [builder](https://mynthmarks.vercel.app), read the [source](https://git
 
 - <a href="https://github.com/EbookFoundation/free-programming-books/pull/13176"><img alt="merged" src="https://mynthmarks.vercel.app/api/mark?kind=contributions&value=merged"></a> **free-programming-books**: added Pro Git in Arabic.
 - <a href="https://github.com/npmx-dev/npmx.dev/pull/2315"><img alt="merged" src="https://mynthmarks.vercel.app/api/mark?kind=contributions&value=merged"></a> **npmx.dev**: added the missing Egyptian Arabic and French translation keys.
+- <a href="https://github.com/pwa-builder/PWABuilder/pulls?q=is%3Apr+author%3Ahamdibenjarrar"><img alt="in review" src="https://mynthmarks.vercel.app/api/mark?kind=contributions&value=in%20review&tone=slate"></a> **PWABuilder by Microsoft**: three pull requests, for agent readiness checks (page summary, structured data, llms.txt), iOS packaging options, and crash recovery in the offline check.
 - <a href="https://github.com/npmx-dev/npmx.dev/pull/2333"><img alt="proposed" src="https://mynthmarks.vercel.app/api/mark?kind=contributions&value=proposed&tone=slate"></a> **npmx.dev**: proposed a package health score widget powered by npm Pulse.
 
 **Communities I build with**
 
 <a href="https://almarsm.org"><img alt="Al-Marsam Organization" src="https://mynthmarks.vercel.app/api/mark?kind=community&value=Al-Marsam%20Organization"></a>
-<a href="https://ghazala-cinematic-lab.vercel.app"><img alt="Ghazala Cinematic Lab" src="https://mynthmarks.vercel.app/api/mark?kind=community&value=Ghazala%20Cinematic%20Lab"></a>
+<a href="https://alghazalacinematiclab.org"><img alt="Ghazala Cinematic Lab" src="https://mynthmarks.vercel.app/api/mark?kind=community&value=Ghazala%20Cinematic%20Lab"></a>
 <a href="https://github.com/hamdibenjarrar/awesome-arabic-dev"><img alt="Arabic speaking developers" src="https://mynthmarks.vercel.app/api/mark?kind=community&value=Arabic%20speaking%20developers"></a>
 
 <p align="center">
@@ -341,31 +381,73 @@ Open the [builder](https://mynthmarks.vercel.app), read the [source](https://git
 
 <a name="path"></a>
 
-## Path and toolkit
+## Path
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamdibenjarrar"><img src="assets/path.svg" width="100%" alt="Path: brand designer at Anis Ben Ammar Studio in 2023, GOMYCODE bootcamp graduated April 2025, founder of MYNTHISM in 2025, innovation and digital impact lead at Wallah We Can Global in 2025, innovation sector director at Almarsm Organization in Tripoli in 2026. Click to open LinkedIn."></a>
+  <a href="https://www.linkedin.com/in/hamdibenjarrar"><img src="assets/path.svg" width="100%" alt="Path: customer care and call centre supervision 2014 to 2021, brand designer at Anis Ben Ammar Studio 2023, GOMYCODE full stack bootcamp 2025, innovation and digital impact lead at Wallah We Can Global 2025, director of innovation at Al-Marsam in Tripoli 2026, independent designer, developer and coordinator now. Click to open LinkedIn."></a>
 </p>
+
+<a name="experience"></a>
+
+## Experience
+
+| When | Role | Where |
+| :-- | :-- | :-- |
+| 2025 to now | Auto-entrepreneur, independent designer, developer and coordinator | Tripoli and Tunis. Registered on the Tunisian RNE platform |
+| 2026 to Nov 2026 | Director of Innovation and Experience Design | Al-Marsam Organization for Culture and Arts Promotion, Tripoli |
+| Aug to Dec 2025 | Innovation and Digital Impact Lead | Wallah We Can Global, international child rights NGO, Tunis |
+| Nov 2024 to Apr 2025 | Full Stack Developer, training and freelance | GOMYCODE, Tunis |
+| 2023 | Brand and Identity Designer | Anis Ben Ammar Studio, Tunis |
+| 2022 to 2024 | Customer Service Representative, French market | AlmavivA Tunisie, Tunis |
+| 2021 to 2022 | Call Centre Supervisor | Neoconsilium France, Tunis |
+| 2019 to 2020 | Manager | LYOUM, Mediterranean fashion brand |
+| 2017 to 2019 | Call Centre Agent | Several call centres, informal work without a contract |
+| 2016 to 2017 | Sales Assistant | Pull and Bear, Tunisia |
+| 2014 to 2016 | Call Centre Agent | Several call centres, informal work without a contract |
+
+Through all the call centre years I kept teaching myself web design, digital tools and code. That is the shadow part of the tagline.
+
+<sub><a href="#top">Back to top</a></sub>
+
+<a name="skills"></a>
+
+## Skills
 
 <p align="center">
-  <a href="https://github.com/hamdibenjarrar?tab=repositories"><img src="assets/stack.svg" width="100%" alt="Toolkit: React, Next.js, TypeScript, Tailwind, Motion, GSAP, Three.js, Node, Express, Python, FastAPI, Supabase, PostgreSQL, MongoDB, LLM APIs, RAG, multi agent systems, MCP, n8n, Vercel, Cloudflare, Docker, GitHub Actions, brand identity, art direction. Click to open my repositories."></a>
+  <a href="https://github.com/hamdibenjarrar?tab=repositories"><img src="assets/stack.svg" width="100%" alt="Toolkit: coordination, people, design, interface, server, agents, AI media and shipping. Click to open my repositories."></a>
 </p>
 
-<details>
-<summary><b>Toolkit as text</b></summary>
-
-<br>
-
-| Area | Tools |
+| Area | Skills |
 | :-- | :-- |
-| Interface | React, Next.js, TypeScript, Tailwind, Motion, GSAP, Three.js |
-| Server | Node, Express, Python, FastAPI |
-| Data | Supabase, PostgreSQL, MongoDB |
-| AI | LLM APIs, RAG, multi agent systems, MCP, n8n |
-| Ship | Vercel, Cloudflare, Docker, GitHub Actions |
-| Design | Brand identity, art direction, motion |
+| Coordination and communication | Project coordination and planning, stakeholder and partner liaison, embassy, NGO and client relations, proposals, grants and dossiers, official correspondence in three languages, meetings, events and workshops, reporting |
+| Leadership and people | Team supervision, recruitment and onboarding, coaching, scheduling, KPI tracking, training staff and volunteers, customer care and de-escalation |
+| Administration and assistance | Calendar and scheduling, document preparation, records and data entry, invoicing, travel and visa files, Google Workspace, Microsoft Office |
+| Product and design | Product design, UI and UX, design systems, brand identity, logotype, art direction, editorial and print design, motion design, Figma, Arabic right to left typography |
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Motion, GSAP, Three.js, accessibility to WCAG 2.1 AA, SEO |
+| Backend and data | Node.js, Express, Python, FastAPI, REST APIs, PostgreSQL, Supabase, MongoDB, offline first sync |
+| AI engineering | LLM integration, RAG, multi agent systems, MCP, prompt engineering, n8n automation, local models with Ollama, Qiskit |
+| AI media | Image, video and voice generation, Remotion, Blender, HeyGen, Suno, Gemini, Grok, Higgsfield |
+| Shipping | Vercel, Cloudflare, Docker, Git, GitHub Actions, CI/CD, DNS, hosting and backups |
 
-</details>
+**Soft skills:** emotional intelligence and empathy, calm under pressure and de-escalation, clear speaking and writing in three languages, cross cultural work between Tunisia, Libya and Europe, leading and training people, organisation and follow through, discretion with sensitive information, problem solving, fast self directed learning, creativity and attention to detail.
+
+<sub><a href="#top">Back to top</a></sub>
+
+<a name="certifications"></a>
+
+## Certifications and learning
+
+| From | Certificate |
+| :-- | :-- |
+| Anthropic Academy | All 16 course certificates: six developer, four agent, six fluency. Including Teaching the AI Fluency Framework, 2026 |
+| Microsoft and LinkedIn | Career Essentials in Software Development, 2025 |
+| LinkedIn Learning | Software Development, 2025. Programming Foundations, 2025 |
+| freeCodeCamp | Front End Development Libraries, 2025. JavaScript Algorithms and Data Structures, 2024. Responsive Web Design, 2024 |
+| GOMYCODE | Software Developer Bootcamp, full stack, April 2025, 97 percent in data structures and algorithms. Software Development Fundamentals, 2025. MongoDB track |
+| Postman | API Fundamentals Student Expert, 2025 |
+| GitHub Education | Global Campus student, 2025 |
+| Google | Digital skills programme, 2023 |
+| Lycee Montfleury, Tunis | Baccalaureate in Computer Science, 2014 |
 
 <sub><a href="#top">Back to top</a></sub>
 
@@ -383,13 +465,13 @@ Everything I open source is free and stays free. If it helps you, here is how to
 1. **Sponsor a project or fund a feature.** GitHub Sponsors is being set up for this profile. Until it opens, [write to me](mailto:hamdibenjarrar@gmail.com?subject=Supporting%20your%20work) and we agree on it directly.
 2. **Star and share.** Stars on [Prevent](https://github.com/hamdibenjarrar/prevent) and [Mynthmarks](https://github.com/hamdibenjarrar/mynthmarks) help other people find them.
 3. **Wear a Mynthmark.** Every profile that uses them makes the system stronger.
-4. **Hire the studio.** Brand systems, websites and agents, from [MYNTHISM](https://mynthism.vercel.app).
+4. **Work with me.** Coordination, brand systems, websites and agents. See my [portfolio](https://mynthism.vercel.app) or [write to me](mailto:hamdibenjarrar@gmail.com).
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamdibenjarrar"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/hamdibenjarrar"><img src="assets/btn-instagram.svg" height="48" alt="Instagram"></a>
   <a href="mailto:hamdibenjarrar@gmail.com"><img src="assets/btn-email.svg" height="48" alt="Email hamdibenjarrar@gmail.com"></a>
-  <a href="https://mynthism.vercel.app"><img src="assets/btn-mynthism.svg" height="48" alt="MYNTHISM"></a>
+  <a href="https://mynthism.vercel.app"><img src="assets/btn-mynthism.svg" height="48" alt="Portfolio"></a>
   <a href="https://github.com/hamdibenjarrar/hamdibenjarrar/issues/new?title=nomen%3A+hello&body=Hello+Nomen."><img src="assets/btn-talk.svg" height="48" alt="Say hello to Nomen"></a>
 </p>
 
