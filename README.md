@@ -114,6 +114,13 @@ A patient booking web app with online payment for Dr Ashraf Lakshin, neurosurgeo
 
 One home for my products, an academy, a council of eight agents and my portfolio.
 
+### Alpha OS
+
+<a href="#agents"><img alt="status: building" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=building"></a>
+<a href="#agents"><img alt="agents: personal operating system" src="https://mynthmarks.vercel.app/api/mark?kind=agent&value=personal%20operating%20system"></a>
+
+My personal agent operating system. It rotates free model providers, hands skills to sub-agents, and runs on my laptop and in the cloud.
+
 ### Prevent
 
 <a href="#prevent"><img alt="status: open source" src="https://mynthmarks.vercel.app/api/mark?kind=status&value=open%20source"></a>
@@ -439,7 +446,8 @@ Through all the call centre years I kept teaching myself web design, digital too
 
 | From | Certificate |
 | :-- | :-- |
-| Anthropic Academy | All 16 course certificates: six developer, four agent, six fluency. Including Teaching the AI Fluency Framework, 2026 |
+| Anthropic Academy | **16 certificates (2026):** 6 Developer, 4 Agent, and 6 Fluency. Includes Teaching the AI Fluency Framework. |
+| Microsoft Learn | **188 badges, 42 trophies** (profile snapshot, 24 Nov 2026). [View my public profile for the current badges and credentials](https://learn.microsoft.com/en-us/users/hamdibenjarrar-7363/) |
 | Microsoft and LinkedIn | Career Essentials in Software Development, 2025 |
 | LinkedIn Learning | Software Development, 2025. Programming Foundations, 2025 |
 | freeCodeCamp | Front End Development Libraries, 2025. JavaScript Algorithms and Data Structures, 2024. Responsive Web Design, 2024 |
