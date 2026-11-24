@@ -446,10 +446,10 @@ Through all the call centre years I kept teaching myself web design, digital too
 
 ### Microsoft Learn
 
-The numbers below are a dated snapshot, not a live counter. The linked profile is the source of truth for every earned badge and the latest totals.
+The badge counts are a dated snapshot, not live counters. The linked profile is the source of truth for every earned Microsoft Learn badge and the latest totals.
 
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/users/hamdibenjarrar-7363/"><img src="assets/learn-record.svg" width="100%" alt="Microsoft Learn snapshot from 24 November 2026: 188 earned badges and 42 trophies. Click to view every badge and current totals on the live profile."></a>
+  <a href="https://learn.microsoft.com/en-us/users/hamdibenjarrar-7363/"><img src="assets/learn-record.svg" width="100%" alt="Learning record: Microsoft Learn, 188 badges and 42 trophies as of 24 November 2026; Anthropic Academy, 16 course certificates: six Developer, four Agent, six Fluency. Click to view the current Microsoft Learn profile."></a>
 </p>
 
 [Open the complete Microsoft Learn badge and credential profile](https://learn.microsoft.com/en-us/users/hamdibenjarrar-7363/)
