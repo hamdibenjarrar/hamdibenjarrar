@@ -444,10 +444,21 @@ Through all the call centre years I kept teaching myself web design, digital too
 
 ## Certifications and learning
 
+### Microsoft Learn
+
+The numbers below are a dated snapshot, not a live counter. The linked profile is the source of truth for every earned badge and the latest totals.
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/hamdibenjarrar-7363/"><img src="assets/learn-record.svg" width="100%" alt="Microsoft Learn snapshot from 24 November 2026: 188 earned badges and 42 trophies. Click to view every badge and current totals on the live profile."></a>
+</p>
+
+[Open the complete Microsoft Learn badge and credential profile](https://learn.microsoft.com/en-us/users/hamdibenjarrar-7363/)
+
+### Other credentials
+
 | From | Certificate |
 | :-- | :-- |
 | Anthropic Academy | **16 certificates (2026):** 6 Developer, 4 Agent, and 6 Fluency. Includes Teaching the AI Fluency Framework. |
-| Microsoft Learn | **188 badges, 42 trophies** (profile snapshot, 24 Nov 2026). [View my public profile for the current badges and credentials](https://learn.microsoft.com/en-us/users/hamdibenjarrar-7363/) |
 | Microsoft and LinkedIn | Career Essentials in Software Development, 2025 |
 | LinkedIn Learning | Software Development, 2025. Programming Foundations, 2025 |
 | freeCodeCamp | Front End Development Libraries, 2025. JavaScript Algorithms and Data Structures, 2024. Responsive Web Design, 2024 |

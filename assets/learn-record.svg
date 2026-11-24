@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" role="img" aria-labelledby="title desc">
+  <title id="title">Microsoft Learn credential snapshot</title>
+  <desc id="desc">188 badges and 42 trophies, snapshot dated 24 November 2026. Open the linked Microsoft Learn profile for the current collection.</desc>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#238636" stop-opacity=".16"/>
+      <stop offset=".58" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2f81f7" stop-opacity=".12"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b949e" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#30363d"/>
+      <stop offset="1" stop-color="#8b949e" stop-opacity=".32"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="318" rx="24" fill="#0d1117" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="316" rx="23" fill="url(#wash)"/>
+
+  <text x="54" y="58" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2.2">LEARNING RECORD / MICROSOFT LEARN</text>
+  <circle cx="1138" cy="52" r="5" fill="#3fb950"/>
+  <text x="1122" y="57" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" text-anchor="end" letter-spacing="1.2">PUBLIC PROFILE</text>
+
+  <rect x="48" y="84" width="536" height="158" rx="18" fill="#161b22" stroke="#30363d"/>
+  <circle cx="105" cy="163" r="30" fill="#238636" fill-opacity=".16" stroke="#3fb950" stroke-opacity=".72"/>
+  <path d="M105 142l6 13 14 2-10 10 2 14-12-7-12 7 2-14-10-10 14-2z" fill="none" stroke="#3fb950" stroke-width="2.4" stroke-linejoin="round"/>
+  <text x="158" y="158" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="54" font-weight="700">188</text>
+  <text x="160" y="194" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2">EARNED BADGES</text>
+  <text x="160" y="220" fill="#3fb950" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">Skills built, one achievement at a time</text>
+
+  <rect x="600" y="84" width="552" height="158" rx="18" fill="#161b22" stroke="#30363d"/>
+  <circle cx="657" cy="163" r="30" fill="#2f81f7" fill-opacity=".14" stroke="#58a6ff" stroke-opacity=".72"/>
+  <path d="M646 144h22v8c0 11-5 17-11 20-6-3-11-9-11-20zm-1 5h-8v4c0 8 5 12 13 13m26-17h8v4c0 8-5 12-13 13m-13 6v11m-10 0h20" fill="none" stroke="#58a6ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="710" y="158" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="54" font-weight="700">42</text>
+  <text x="712" y="194" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2">TROPHIES</text>
+  <text x="712" y="220" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">A record of progress and practice</text>
+
+  <line x1="48" y1="268" x2="1152" y2="268" stroke="#30363d"/>
+  <text x="52" y="294" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing=".8">SNAPSHOT: 24 NOV 2026</text>
+  <text x="1148" y="294" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="600" text-anchor="end">Open the live profile for every badge and the latest totals  -&gt;</text>
+</svg>
